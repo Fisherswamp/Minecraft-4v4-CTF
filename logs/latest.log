@@ -1,0 +1,695 @@
+[01:07:21] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[01:07:21] [Server thread/INFO]: Loading properties
+[01:07:21] [Server thread/INFO]: Default game type: ADVENTURE
+[01:07:21] [Server thread/INFO]: Generating keypair
+[01:07:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:07:22] [Server thread/INFO]: Using epoll channel type
+[01:07:23] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[01:07:33] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[01:07:34] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@73baac3a]
+[01:07:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[01:07:34] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:07:35] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[01:07:39] [Server thread/WARN]: [WorldEdit] ====================================================
+[01:07:39] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[01:07:39] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[01:07:39] [Server thread/WARN]: [WorldEdit]   
+[01:07:39] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[01:07:39] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[01:07:39] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[01:07:39] [Server thread/WARN]: [WorldEdit]   
+[01:07:39] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[01:07:39] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[01:07:39] [Server thread/WARN]: [WorldEdit]   
+[01:07:39] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[01:07:39] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[01:07:39] [Server thread/WARN]: [WorldEdit]   
+[01:07:39] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[01:07:39] [Server thread/WARN]: [WorldEdit] ====================================================
+[01:07:39] [Server thread/INFO]: Preparing level "world"
+[01:07:39] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[01:07:41] [Server thread/INFO]: Loaded 6 recipes
+[01:08:17] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[01:08:18] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[01:08:19] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:19] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:19] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:19] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[01:08:20] [Server thread/INFO]: Time elapsed: 1710 ms
+[01:08:20] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[01:08:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:21] [Server thread/INFO]: Preparing spawn area: 1%
+[01:08:22] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:22] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:23] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:23] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:24] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:24] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:25] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:25] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:26] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:26] [Server-Worker-1/INFO]: Preparing spawn area: 88%
+[01:08:27] [Server-Worker-1/INFO]: Preparing spawn area: 89%
+[01:08:27] [Server-Worker-1/INFO]: Preparing spawn area: 89%
+[01:08:28] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[01:08:28] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[01:08:28] [Server thread/INFO]: Time elapsed: 8657 ms
+[01:08:28] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[01:08:29] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:29] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:29] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:30] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:08:30] [Server-Worker-1/INFO]: Preparing spawn area: 89%
+[01:08:31] [Server thread/INFO]: Time elapsed: 2427 ms
+[01:08:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:08:31] [Server thread/INFO]: Done (52.324s)! For help, type "help"
+[01:08:40] [User Authenticator #1/INFO]: UUID of player Fisherswamp is 4b5cfac2-5de7-4a24-89ed-22991e86d077
+[01:08:41] [Server thread/INFO]: Fisherswamp[/173.95.177.86:58060] logged in with entity id 17 at ([world]-11.344713687954302, 21.200000047683726, -27.330503527731445)
+[01:09:24] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:09:24] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:09:27] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:09:27] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:09:33] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:09:33] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:09:33] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:10:42] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:10:56] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:11:44] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:11:45] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:11:45] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:11:46] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:11:46] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:11:47] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:11:50] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:11:50] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:11:56] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:11:56] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:12:11] [Server thread/INFO]: Fisherswamp issued server command: /up 30
+[01:12:15] [Server thread/INFO]: Fisherswamp issued server command: //walls stone
+[01:12:19] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:12:19] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:12:19] [Server thread/INFO]: [@: Teleported Fisherswamp to -9.5, 31.5, -27.5]
+[01:13:05] [Server thread/INFO]: [@: Teleported Fisherswamp to -14.5, 65.0, -30.5]
+[01:13:05] [Server thread/INFO]: [@: Teleported Fisherswamp to -14.5, 65.0, -30.5]
+[01:13:16] [Server thread/INFO]: [@: Teleported Fisherswamp to -14.5, 65.0, -30.5]
+[01:13:17] [Server thread/INFO]: [@: Teleported Fisherswamp to -14.5, 65.0, -30.5]
+[01:13:28] [Server thread/INFO]: Fisherswamp lost connection: Disconnected
+[01:13:28] [Server thread/INFO]: Fisherswamp left the game
+[01:40:10] [User Authenticator #2/INFO]: UUID of player Fisherswamp is 4b5cfac2-5de7-4a24-89ed-22991e86d077
+[01:40:11] [Server thread/INFO]: Fisherswamp[/173.95.177.86:58385] logged in with entity id 19 at ([world]-4.656078501039489, 63.61062190979691, -26.345326163137415)
+[01:40:54] [Server thread/INFO]: [@: Teleported Fisherswamp to 1000.5, 65.0, 1000.5]
+[01:40:55] [Server thread/INFO]: [@: Teleported Fisherswamp to 1000.5, 65.0, 1000.5]
+[01:41:38] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[01:42:11] [Server thread/INFO]: Fisherswamp issued server command: //set bedrock
+[01:42:27] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[01:42:34] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[01:42:41] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:bedrock
+[01:42:47] [Server thread/INFO]: Fisherswamp issued server command: //walls bedrock
+[01:43:05] [Server thread/INFO]: Fisherswamp issued server command: //walls glass
+[01:43:20] [Server thread/INFO]: Fisherswamp issued server command: //set glass
+[01:44:11] [Server thread/INFO]: Fisherswamp issued server command: /
+[01:44:33] [Server thread/INFO]: Fisherswamp issued server command: /tp 2000 65 2000
+[01:44:33] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2000.5, 65.0, 2000.5]
+[01:44:36] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[01:44:51] [Server thread/INFO]: Fisherswamp issued server command: //expand north 10
+[01:44:57] [Server thread/INFO]: Fisherswamp issued server command: //expand north 10
+[01:45:09] [Server thread/INFO]: Fisherswamp issued server command: //expand 10 forward
+[01:45:28] [Server thread/INFO]: Fisherswamp lost connection: Disconnected
+[01:45:28] [Server thread/INFO]: Fisherswamp left the game
+[21:46:50] [User Authenticator #3/INFO]: UUID of player Fisherswamp is 4b5cfac2-5de7-4a24-89ed-22991e86d077
+[21:46:50] [Server thread/INFO]: Fisherswamp[/173.95.177.86:57950] logged in with entity id 20 at ([world]1999.9496187660777, 61.0, 2001.2646825223283)
+[21:47:22] [Server thread/INFO]: Fisherswamp issued server command: /up 40
+[21:48:02] [Server thread/INFO]: Fisherswamp issued server command: //set qua
+[21:48:05] [Server thread/INFO]: Fisherswamp issued server command: //set qua
+[21:48:08] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:quartz_block
+[21:48:19] [Server thread/INFO]: Fisherswamp issued server command: //walls minecraft:quartz_pillar
+[21:48:34] [Server thread/INFO]: Fisherswamp issued server command: //walls glass
+[21:48:57] [Server thread/INFO]: Fisherswamp issued server command: //set glass
+[21:49:28] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[21:49:30] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[21:49:33] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[21:49:35] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[21:49:40] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[21:49:42] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[21:49:45] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[21:49:48] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[21:49:51] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[21:49:53] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[21:50:04] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[21:50:06] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[21:50:13] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[21:50:16] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[21:50:22] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[21:50:25] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[21:50:30] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[21:51:39] [Server thread/INFO]: Fisherswamp issued server command: //set qu
+[21:51:43] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:quartz_pillar
+[21:52:02] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:glass
+[22:00:12] [User Authenticator #4/INFO]: UUID of player temporalmoose is 52c2bdaf-f832-4fdf-b537-6258f381bd33
+[22:00:12] [Server thread/INFO]: temporalmoose[/104.185.76.204:57871] logged in with entity id 21 at ([world]-16.5, 25.0, -30.5)
+[22:00:12] [Server thread/INFO]: [@: Teleported temporalmoose to 1000.5, 65.0, 1000.5]
+[22:00:12] [Server thread/INFO]: [@: Teleported temporalmoose to 1000.5, 65.0, 1000.5]
+[22:00:47] [Server thread/INFO]: Fisherswamp issued server command: /op temporalmoose
+[22:00:47] [Server thread/INFO]: [Fisherswamp: Made temporalmoose a server operator]
+[22:00:56] [Server thread/INFO]: temporalmoose issued server command: /gamemode creative
+[22:00:56] [Server thread/INFO]: [temporalmoose: Set own game mode to Creative Mode]
+[22:01:00] [Server thread/INFO]: Fisherswamp issued server command: /tp temporalmoose Fisherswamp
+[22:01:00] [Server thread/INFO]: [Fisherswamp: Teleported temporalmoose to Fisherswamp]
+[22:01:00] [Server thread/WARN]: temporalmoose moved too quickly! 1035.4599761233487,57.86534661163504,984.2942398612631
+[22:01:05] [Netty Epoll Server IO #1/INFO]: <Fisherswamp> howdy[m
+[22:11:31] [Server thread/INFO]: temporalmoose issued server command: /worldedit
+[22:11:43] [Server thread/INFO]: Fisherswamp issued server command: //wand
+[22:11:48] [Server thread/INFO]: temporalmoose issued server command: //wand
+[22:11:55] [Server thread/INFO]: Fisherswamp issued server command: /up
+[22:11:58] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[22:12:04] [Server thread/INFO]: temporalmoose issued server command: /up
+[22:12:07] [Server thread/INFO]: temporalmoose issued server command: /up 1
+[22:12:23] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[22:12:29] [Server thread/INFO]: temporalmoose issued server command: //fill minecraft:bedrock
+[22:12:37] [Server thread/INFO]: temporalmoose issued server command: //fill minecraft:bedrock
+[22:12:41] [Server thread/INFO]: Fisherswamp issued server command: //set stone
+[22:12:42] [Server thread/INFO]: temporalmoose issued server command: //set minecraft:bedrock
+[22:13:46] [Server thread/INFO]: Fisherswamp issued server command: //set air
+[22:16:10] [Server thread/INFO]: temporalmoose issued server command: /up 1
+[22:16:23] [Server thread/INFO]: temporalmoose issued server command: /time set day
+[22:16:23] [Server thread/INFO]: [temporalmoose: Set the time to 1000]
+[22:17:25] [Server thread/INFO]: Fisherswamp issued server command: //forest
+[22:17:29] [Server thread/INFO]: temporalmoose issued server command: //copy
+[22:17:29] [Server thread/INFO]: Fisherswamp issued server command: //forest
+[22:17:34] [Server thread/INFO]: temporalmoose issued server command: //paste
+[22:17:35] [Server thread/INFO]: Fisherswamp issued server command: //forest brownmushroom
+[22:17:38] [Server thread/INFO]: temporalmoose issued server command: //paste
+[22:17:41] [Server thread/INFO]: temporalmoose issued server command: //paste
+[22:18:05] [Server thread/INFO]: temporalmoose issued server command: //copy
+[22:18:13] [Server thread/INFO]: temporalmoose issued server command: //paste
+[22:18:32] [Server thread/INFO]: Fisherswamp issued server command: /forestgen 30 brownmushroom
+[22:18:34] [Server thread/INFO]: Fisherswamp issued server command: /forestgen 30 brownmushroom 10
+[22:19:53] [User Authenticator #5/INFO]: UUID of player BACONWRAP is 095ed8e7-c12a-4520-bb9a-23b1e46c7ede
+[22:19:53] [Server thread/INFO]: BACONWRAP[/98.26.57.181:63292] logged in with entity id 58 at ([world]-16.5, 25.0, -30.5)
+[22:19:53] [Server thread/INFO]: [@: Teleported BACONWRAP to 1000.5, 65.0, 1000.5]
+[22:19:54] [Server thread/INFO]: [@: Teleported BACONWRAP to 1000.5, 65.0, 1000.5]
+[22:19:58] [Server thread/INFO]: BACONWRAP issued server command: /gamemode c
+[22:20:13] [Server thread/INFO]: Fisherswamp issued server command: /op BACONWRAP
+[22:20:13] [Server thread/INFO]: [Fisherswamp: Made BACONWRAP a server operator]
+[22:20:19] [Server thread/INFO]: BACONWRAP issued server command: /gamemode creative
+[22:20:19] [Server thread/INFO]: [BACONWRAP: Set own game mode to Creative Mode]
+[22:20:24] [Server thread/INFO]: BACONWRAP issued server command: //center
+[22:20:25] [Server thread/INFO]: BACONWRAP issued server command: //wamd
+[22:20:26] [Server thread/INFO]: temporalmoose issued server command: //copy
+[22:20:29] [Server thread/INFO]: temporalmoose issued server command: //paste
+[22:20:38] [Server thread/INFO]: BACONWRAP issued server command: //wand
+[22:20:43] [Server thread/INFO]: temporalmoose issued server command: /up
+[22:20:45] [Netty Epoll Server IO #1/INFO]: <Fisherswamp> .//wand[m
+[22:20:45] [Server thread/INFO]: temporalmoose issued server command: /up 1
+[22:20:49] [Server thread/INFO]: temporalmoose issued server command: //paste
+[22:20:57] [Server thread/INFO]: BACONWRAP issued server command: /setworldspawn
+[22:20:57] [Server thread/INFO]: [BACONWRAP: Set the world spawn point to 1000, 56, 999]
+[22:21:07] [Server thread/INFO]: BACONWRAP issued server command: /tp Fisherswamp
+[22:21:07] [Server thread/INFO]: [BACONWRAP: Teleported BACONWRAP to Fisherswamp]
+[22:21:12] [Server thread/INFO]: temporalmoose issued server command: //rotate
+[22:21:21] [Server thread/INFO]: temporalmoose issued server command: //rotate <180>
+[22:21:23] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[22:21:33] [Server thread/INFO]: temporalmoose issued server command: //rotate <0> [180]
+[22:21:36] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[22:21:39] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[22:21:41] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:21:52] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:21:54] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[22:21:57] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[22:21:59] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:22:06] [Server thread/INFO]: BACONWRAP lost connection: Disconnected
+[22:22:06] [Server thread/INFO]: BACONWRAP left the game
+[22:22:08] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:22:26] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:quartz_block
+[22:23:18] [Server thread/INFO]: Fisherswamp issued server command: //set sand
+[22:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5034ms or 100 ticks behind
+[22:24:29] [Server thread/INFO]: Fisherswamp issued server command: //set stone
+[22:25:29] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:stone_bricks
+[22:27:16] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:stone_bricks 30%minecraft:cracked_stone_bricks
+[22:27:42] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:stone_bricks 30%minecraft:stone_bricks
+[22:28:30] [Server thread/INFO]: Fisherswamp issued server command: //replace 70%minecraft:stone_bricks,minecraft:cracked_stone_bricks
+[22:28:52] [Server thread/INFO]: Fisherswamp issued server command: //replace 55%minecraft:stone_bricks,45%minecraft:cracked_stone_bricks
+[22:29:39] [Server thread/INFO]: Fisherswamp issued server command: //replace 55%minecraft:stone_bricks,25%minecraft:cracked_stone_bricks,minecraft:mossy_stone_bricks
+[22:32:03] [Server thread/INFO]: Fisherswamp issued server command: //set 75%air,minecraft:gravel
+[22:35:10] [Server thread/INFO]: Fisherswamp issued server command: /tp ~500 ~ 500
+[22:35:11] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2508.21342156823, 34.91326831704612, 500.5]
+[22:35:17] [Server thread/INFO]: Fisherswamp issued server command: /tp temporalmoose
+[22:35:17] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to temporalmoose]
+[22:35:28] [Server thread/INFO]: Fisherswamp issued server command: /tp ~500 ~ ~500
+[22:35:28] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2508.450638215154, 34.13907761949275, 2508.6061714047646]
+[22:35:31] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[22:35:52] [Server thread/INFO]: Fisherswamp issued server command: /tp temporalmoose
+[22:35:52] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to temporalmoose]
+[22:36:03] [Server thread/INFO]: Fisherswamp issued server command: /tp ~500 ~ ~
+[22:36:03] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2508.5493014108806, 33.5017997129371, 2008.5095898414247]
+[22:36:58] [Server thread/INFO]: Fisherswamp issued server command: /tp 2500 35 2500
+[22:36:58] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2500.5, 35.0, 2500.5]
+[22:37:04] [Server thread/INFO]: Fisherswamp issued server command: /tp 2500 35 2000
+[22:37:04] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2500.5, 35.0, 2000.5]
+[22:37:06] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[22:38:35] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[22:38:37] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
+[22:38:39] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:38:49] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[22:38:51] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
+[22:38:52] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:38:58] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[22:38:59] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:39:05] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:39:08] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[22:39:11] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[22:39:13] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:39:18] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:39:23] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[22:39:24] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[22:39:27] [Server thread/INFO]: Fisherswamp issued server command: //redo
+[22:39:29] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:39:39] [Server thread/INFO]: Fisherswamp issued server command: //set bedrock
+[22:40:31] [Server thread/INFO]: Fisherswamp issued server command: /tp 2500 ~ 2000
+[22:40:31] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2500.5, 46.36813547579965, 2000.5]
+[22:41:08] [Server thread/INFO]: Fisherswamp issued server command: /tp ~-150 ~ ~
+[22:41:08] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2350.5, 44.1235396115536, 2000.5]
+[22:41:21] [Server thread/INFO]: Fisherswamp issued server command: /tp ~ 33 ~
+[22:41:21] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2350.5, 33.0, 2000.5]
+[22:41:22] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[22:42:11] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:42:29] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:dirt
+[22:42:44] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[22:42:49] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[22:42:51] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:43:02] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:43:11] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:43:23] [Server thread/INFO]: Fisherswamp issued server command: //set dirt
+[22:43:32] [Server thread/INFO]: Fisherswamp issued server command: //set dirt
+[22:43:59] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:water
+[22:44:29] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[22:44:31] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:44:36] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[22:44:40] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:44:45] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:44:51] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:44:56] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:45:02] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:45:07] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:45:12] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:45:16] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:45:20] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:45:23] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:45:27] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:45:33] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:46:01] [Server thread/INFO]: Fisherswamp issued server command: /time set day
+[22:46:01] [Server thread/INFO]: [Fisherswamp: Set the time to 1000]
+[22:46:15] [Server thread/INFO]: Fisherswamp issued server command: //walls fence
+[22:46:20] [Server thread/INFO]: Fisherswamp issued server command: //walls minecraft:fence
+[22:46:30] [Server thread/INFO]: Fisherswamp issued server command: //walls minecraft:oak_fence
+[22:47:28] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[22:47:32] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:47:35] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:47:38] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:47:46] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:47:49] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:47:52] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:47:56] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:47:58] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:47:59] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:48:02] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:48:47] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:49:22] [Server thread/INFO]: temporalmoose issued server command: //copy
+[22:49:27] [Server thread/INFO]: temporalmoose issued server command: //paste
+[22:50:10] [Server thread/INFO]: temporalmoose issued server command: //copy
+[22:50:19] [Server thread/INFO]: temporalmoose issued server command: //copy
+[22:51:06] [Server thread/INFO]: temporalmoose issued server command: //paste
+[22:51:36] [Server thread/INFO]: temporalmoose issued server command: //rotate <00> [180] [00]
+[22:51:58] [Netty Epoll Server IO #1/INFO]: <Fisherswamp> .//rotate 90[m
+[22:52:06] [Server thread/INFO]: temporalmoose issued server command: //rotate 180
+[22:52:16] [Server thread/INFO]: temporalmoose issued server command: //rotate 00 180
+[22:52:23] [Server thread/INFO]: temporalmoose issued server command: //rotate 00 00 180
+[22:52:58] [Server thread/INFO]: temporalmoose issued server command: //cut
+[22:53:03] [Server thread/INFO]: temporalmoose issued server command: //undo
+[22:53:13] [Server thread/INFO]: temporalmoose issued server command: //cut
+[22:53:26] [Server thread/INFO]: temporalmoose issued server command: //rotate 00 180
+[22:53:30] [Server thread/INFO]: temporalmoose issued server command: //paste
+[22:53:39] [Server thread/INFO]: temporalmoose issued server command: //undo
+[22:53:46] [Server thread/INFO]: temporalmoose issued server command: //undo
+[22:53:47] [Server thread/INFO]: Fisherswamp issued server command: /tp ~-150 ~ ~
+[22:53:47] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2200.3933834899003, 50.0, 2000.451175878662]
+[22:53:52] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[22:53:53] [Server thread/INFO]: temporalmoose issued server command: //cut
+[22:53:57] [Server thread/INFO]: temporalmoose issued server command: //rotate 180
+[22:53:59] [Server thread/INFO]: temporalmoose issued server command: //paste
+[22:55:10] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[22:55:14] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
+[22:55:15] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:55:21] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[22:55:22] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:55:25] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[22:55:26] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:55:29] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
+[22:55:31] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:55:32] [Server thread/INFO]: temporalmoose issued server command: //fill minecraft:quartz_slab
+[22:55:35] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[22:55:37] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:55:39] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
+[22:55:40] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:55:52] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:55:55] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[22:56:02] [Server thread/INFO]: temporalmoose issued server command: //fill minecraft:quartz_slab 1
+[22:56:08] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[22:56:09] [Server thread/INFO]: temporalmoose issued server command: //undo
+[22:56:14] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:56:18] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[22:56:19] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:56:21] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[22:56:22] [Server thread/INFO]: temporalmoose issued server command: //fill minecraft:quartz_slab 13
+[22:56:25] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:56:36] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:56:42] [Server thread/INFO]: temporalmoose issued server command: //undo
+[22:56:54] [Server thread/INFO]: temporalmoose issued server command: //fill minecraft:quartz_slab 13
+[22:56:58] [Server thread/INFO]: temporalmoose issued server command: //undo
+[22:57:03] [Server thread/INFO]: temporalmoose issued server command: /up 1
+[22:57:04] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:sandstone
+[22:57:06] [Server thread/INFO]: temporalmoose issued server command: //fill minecraft:quartz_slab 13
+[22:57:24] [Server thread/INFO]: Fisherswamp issued server command: //set sand
+[22:58:38] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[22:58:52] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:59:03] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[22:59:32] [Server thread/INFO]: Fisherswamp issued server command: //set 20%sand
+[22:59:41] [Server thread/INFO]: Fisherswamp issued server command: //set 20%sand,80%air
+[23:02:00] [Server thread/INFO]: Fisherswamp issued server command: //cut
+[23:02:04] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[23:02:05] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[23:03:26] [Server thread/INFO]: temporalmoose issued server command: //set minecraft:diorite_slab
+[23:04:29] [Server thread/INFO]: temporalmoose issued server command: //set minecraft:polished_diorite_slab
+[23:04:55] [Server thread/INFO]: temporalmoose issued server command: //walls minecraft:polished_diorite_stairs
+[23:05:30] [Server thread/INFO]: Fisherswamp issued server command: /tp ~-150 ~ ~
+[23:05:30] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2050.300000011921, 40.61627122495519, 2000.5539708471163]
+[23:06:27] [Server thread/INFO]: Fisherswamp issued server command: //walls sand
+[23:07:25] [Server thread/INFO]: Fisherswamp issued server command: //replace air water
+[23:08:09] [Server thread/INFO]: Fisherswamp issued server command: //replace air 20%sand,80%air
+[23:08:34] [Server thread/INFO]: Fisherswamp issued server command: //replace air water
+[23:10:48] [Server thread/INFO]: temporalmoose issued server command: //copy
+[23:10:59] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:11:53] [Server thread/INFO]: temporalmoose issued server command: //cut
+[23:11:57] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:12:12] [Server thread/INFO]: Fisherswamp issued server command: /tp ~ ~ ~200
+[23:12:12] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2350.493399139825, 51.80173609722091, 2200.655431943125]
+[23:12:14] [Server thread/INFO]: temporalmoose issued server command: //cut
+[23:12:19] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:12:21] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[23:12:33] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:12:42] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:12:45] [Server thread/INFO]: Fisherswamp issued server command: //hsphere minecraft:wool 10
+[23:12:54] [Server thread/INFO]: Fisherswamp issued server command: //hsphere minecraft:wool 10
+[23:13:50] [Server thread/INFO]: Fisherswamp issued server command: //hsphere 100%minecraft:wool 10
+[23:14:17] [Server thread/INFO]: Fisherswamp issued server command: //hsphere minecraft:white_wool 10
+[23:14:43] [Server thread/INFO]: Fisherswamp issued server command: //pos1
+[23:14:55] [Server thread/INFO]: Fisherswamp issued server command: //pos2
+[23:15:18] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[23:15:27] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[23:15:36] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:15:40] [Server thread/INFO]: Fisherswamp issued server command: //pos1
+[23:15:48] [Server thread/INFO]: Fisherswamp issued server command: //pos2
+[23:16:03] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[23:16:06] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[23:16:19] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[23:16:31] [Server thread/INFO]: temporalmoose issued server command: /give @p minecraft:command_block
+[23:16:31] [Server thread/INFO]: [temporalmoose: Gave 1 [Command Block] to temporalmoose]
+[23:16:53] [Server thread/INFO]: Fisherswamp issued server command: /brush clipboard
+[23:17:22] [Server thread/INFO]: Fisherswamp issued server command: /brush sphere
+[23:17:28] [Server thread/INFO]: Fisherswamp issued server command: /brush sphere minecraft:white_wool
+[23:17:34] [Server thread/INFO]: Fisherswamp issued server command: /brush sphere minecraft:white_wool
+[23:17:51] [Server thread/INFO]: [@: Set the time to 6000]
+[23:18:08] [Server thread/INFO]: [@: Set the time to 6000]
+[23:18:25] [Server thread/INFO]: [@: Set the time to 6000]
+[23:18:30] [Server thread/INFO]: Fisherswamp issued server command: //pos1
+[23:18:36] [Server thread/INFO]: Fisherswamp issued server command: //jump
+[23:18:40] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:18:40] [Server thread/WARN]: Fisherswamp moved too quickly! 19.575212622378785,17.490411166046293,-17.93702856408754
+[23:18:41] [Server thread/INFO]: [@: Set the time to 6000]
+[23:18:46] [Server thread/INFO]: Fisherswamp issued server command: //pos2
+[23:18:48] [Server thread/INFO]: temporalmoose issued server command: //set quart
+[23:18:52] [Server thread/INFO]: temporalmoose issued server command: //set minecraft:quartz_block
+[23:18:55] [Server thread/INFO]: Fisherswamp issued server command: //set air
+[23:18:58] [Server thread/INFO]: [@: Set the time to 6000]
+[23:19:08] [Server thread/INFO]: temporalmoose issued server command: //set minecraft:quartz_block
+[23:19:12] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:13] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:13] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:13] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:14] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:14] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:14] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:15] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:15] [Server thread/INFO]: [@: Set the time to 6000]
+[23:19:15] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:16] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:17] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:17] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:19] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:20] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:21] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:23] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:24] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:19:29] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[23:19:32] [Server thread/INFO]: [@: Set the time to 6000]
+[23:19:32] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[23:19:49] [Server thread/INFO]: [@: Set the time to 6000]
+[23:19:53] [Server thread/INFO]: temporalmoose issued server command: //walls minecraft:chiseled_quartz_block 2
+[23:19:56] [Server thread/INFO]: temporalmoose issued server command: //walls minecraft:chiseled_quartz_block
+[23:19:56] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[23:20:02] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[23:20:05] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[23:20:05] [Server thread/INFO]: [@: Set the time to 6000]
+[23:20:09] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[23:20:17] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[23:20:21] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[23:20:22] [Server thread/INFO]: [@: Set the time to 6000]
+[23:20:26] [Server thread/INFO]: temporalmoose issued server command: //walls minecraft:chiseled_quartz_block
+[23:20:39] [Server thread/INFO]: [@: Set the time to 6000]
+[23:20:40] [Server thread/INFO]: Fisherswamp issued server command: /superpickaxe
+[23:20:56] [Server thread/INFO]: [@: Set the time to 6000]
+[23:21:00] [Server thread/INFO]: Fisherswamp issued server command: //pos1
+[23:21:08] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:21:13] [Server thread/INFO]: [@: Set the time to 6000]
+[23:21:13] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:21:16] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:21:21] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:21:23] [Server thread/INFO]: temporalmoose issued server command: //copy
+[23:21:25] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:21:29] [Server thread/INFO]: [@: Set the time to 6000]
+[23:21:31] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:21:34] [Server thread/INFO]: Fisherswamp issued server command: //pos2
+[23:21:36] [Server thread/INFO]: Fisherswamp issued server command: //set air
+[23:21:40] [Server thread/INFO]: temporalmoose issued server command: //undo
+[23:21:40] [Server thread/WARN]: Fisherswamp moved too quickly! 6.956992756188356,3.9387245965748487,-6.327353504311759
+[23:21:46] [Server thread/INFO]: [@: Set the time to 6000]
+[23:21:52] [Server thread/INFO]: temporalmoose issued server command: //copy
+[23:21:53] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:22:00] [Server thread/INFO]: temporalmoose issued server command: //rotate 180
+[23:22:02] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:22:03] [Server thread/INFO]: [@: Set the time to 6000]
+[23:22:06] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:22:20] [Server thread/INFO]: [@: Set the time to 6000]
+[23:22:27] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:22:33] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:22:37] [Server thread/INFO]: [@: Set the time to 6000]
+[23:22:40] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:22:45] [Server thread/INFO]: temporalmoose issued server command: //undo
+[23:22:47] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:22:53] [Server thread/INFO]: [@: Set the time to 6000]
+[23:23:10] [Server thread/INFO]: [@: Set the time to 6000]
+[23:23:10] [Server thread/INFO]: temporalmoose issued server command: //set air
+[23:23:17] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:23:21] [Server thread/INFO]: temporalmoose issued server command: //undo
+[23:23:27] [Server thread/INFO]: temporalmoose issued server command: //rotate 90
+[23:23:27] [Server thread/INFO]: [@: Set the time to 6000]
+[23:23:29] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:23:35] [Server thread/INFO]: temporalmoose issued server command: //undo
+[23:23:42] [Server thread/INFO]: temporalmoose issued server command: //rotate 180
+[23:23:44] [Server thread/INFO]: [@: Set the time to 6000]
+[23:23:47] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:24:01] [Server thread/INFO]: [@: Set the time to 6000]
+[23:24:07] [Server thread/INFO]: temporalmoose issued server command: //rotate 180
+[23:24:09] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:24:14] [Server thread/INFO]: temporalmoose issued server command: //undo
+[23:24:17] [Server thread/INFO]: [@: Set the time to 6000]
+[23:24:20] [Server thread/INFO]: temporalmoose issued server command: //paste
+[23:24:34] [Server thread/INFO]: [@: Set the time to 6000]
+[23:24:38] [Server thread/INFO]: Fisherswamp issued server command: /tp ~ ~ ~-200
+[23:24:38] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2350.726355829034, 50.0, 1800.4670921070729]
+[23:24:38] [Server thread/WARN]: Fisherswamp moved too quickly! 0.0,0.0,-200.0
+[23:24:46] [Server thread/INFO]: Fisherswamp issued server command: /up
+[23:24:50] [Server thread/INFO]: Fisherswamp issued server command: /up 0
+[23:24:51] [Server thread/INFO]: [@: Set the time to 6000]
+[23:24:58] [Server thread/INFO]: temporalmoose issued server command: //walls minecraft:chiseled_quartz_block
+[23:25:08] [Server thread/INFO]: [@: Set the time to 6000]
+[23:25:15] [Server thread/INFO]: Fisherswamp issued server command: /up 1
+[23:25:25] [Server thread/INFO]: [@: Set the time to 6000]
+[23:25:41] [Server thread/INFO]: [@: Set the time to 6000]
+[23:25:55] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[23:25:58] [Server thread/INFO]: [@: Set the time to 6000]
+[23:25:59] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
+[23:26:01] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[23:26:15] [Server thread/INFO]: [@: Set the time to 6000]
+[23:26:16] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[23:26:22] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
+[23:26:26] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[23:26:28] [Server thread/INFO]: Fisherswamp issued server command: //undo
+[23:26:31] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
+[23:26:32] [Server thread/INFO]: [@: Set the time to 6000]
+[23:26:32] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[23:26:38] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[23:26:49] [Server thread/INFO]: [@: Set the time to 6000]
+[23:26:51] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:soul_sand
+[23:27:05] [Server thread/INFO]: [@: Set the time to 6000]
+[23:27:08] [Server thread/INFO]: Fisherswamp has made the advancement [Ice Bucket Challenge]
+[23:27:22] [Server thread/INFO]: [@: Set the time to 6000]
+[23:27:39] [Server thread/INFO]: [@: Set the time to 6000]
+[23:27:56] [Server thread/INFO]: [@: Set the time to 6000]
+[23:28:13] [Server thread/INFO]: Fisherswamp has made the advancement [We Need to Go Deeper]
+[23:28:14] [Server thread/INFO]: [@: Set the time to 6000]
+[23:28:29] [Server thread/INFO]: [@: Set the time to 6000]
+[23:28:34] [Server thread/INFO]: Fisherswamp issued server command: //pos1
+[23:28:37] [Server thread/WARN]: Fisherswamp moved too quickly! -15.219809108355264,9.00019620642093,15.763053394788557
+[23:28:46] [Server thread/INFO]: [@: Set the time to 6000]
+[23:28:56] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:netherrack air
+[23:29:03] [Server thread/INFO]: [@: Set the time to 6000]
+[23:29:12] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:nether_quartz_ore air
+[23:29:20] [Server thread/INFO]: [@: Set the time to 6000]
+[23:29:23] [Server thread/INFO]: temporalmoose issued server command: //stack forward 54
+[23:29:26] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:lava air
+[23:29:35] [Server thread/INFO]: temporalmoose issued server command: //stack 54 forward
+[23:29:37] [Server thread/INFO]: [@: Set the time to 6000]
+[23:29:42] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:magma_block air
+[23:29:52] [Server thread/INFO]: Fisherswamp issued server command: //expand vert
+[23:29:53] [Server thread/INFO]: [@: Set the time to 6000]
+[23:29:56] [Server thread/INFO]: temporalmoose issued server command: //set air
+[23:30:01] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:netherack air
+[23:30:06] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:netherrack air
+[23:30:09] [Server thread/WARN]: temporalmoose moved too quickly! 21.526523403119427,0.0,-4.450007400425875
+[23:30:10] [Server thread/INFO]: [@: Set the time to 6000]
+[23:30:16] [Server thread/INFO]: temporalmoose issued server command: //set air
+[23:30:20] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:lava air
+[23:30:27] [Server thread/INFO]: [@: Set the time to 6000]
+[23:30:30] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:bedrock air
+[23:30:40] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:nether_quartz_ore air
+[23:30:44] [Server thread/INFO]: [@: Set the time to 6000]
+[23:31:01] [Server thread/INFO]: [@: Set the time to 6000]
+[23:31:06] [Server thread/INFO]: temporalmoose issued server command: //walls minecraft:chiseled_quartz_block
+[23:31:09] [Server thread/INFO]: Fisherswamp issued server command: //expand vert
+[23:31:11] [Server thread/INFO]: Fisherswamp issued server command: //set air
+[23:31:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5919ms or 118 ticks behind
+[23:31:17] [Server thread/WARN]: Fisherswamp moved too quickly! 3.6663311231821467,0.0,-9.523575314417144
+[23:31:23] [Server thread/INFO]: temporalmoose issued server command: //walls minecraft:chiseled_quartz_block
+[23:31:23] [Server thread/INFO]: [@: Set the time to 6000]
+[23:31:40] [Server thread/INFO]: [@: Set the time to 6000]
+[23:31:57] [Server thread/INFO]: [@: Set the time to 6000]
+[23:32:14] [Server thread/INFO]: [@: Set the time to 6000]
+[23:32:24] [Server thread/INFO]: Fisherswamp issued server command: //expand vert
+[23:32:28] [Server thread/INFO]: Fisherswamp issued server command: //set air
+[23:32:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11996ms or 239 ticks behind
+[23:32:40] [Server thread/WARN]: Fisherswamp moved too quickly! -5.432119899463146,0.0,8.55283430846552
+[23:32:42] [Server thread/INFO]: [@: Set the time to 6000]
+[23:32:59] [Server thread/INFO]: [@: Set the time to 6000]
+[23:33:06] [Server thread/INFO]: Fisherswamp issued server command: //pos1
+[23:33:16] [Server thread/INFO]: [@: Set the time to 6000]
+[23:33:18] [Server thread/INFO]: Fisherswamp issued server command: //expand vert
+[23:33:20] [Server thread/INFO]: Fisherswamp issued server command: //set air
+[23:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15507ms or 310 ticks behind
+[23:33:35] [Server thread/WARN]: Fisherswamp moved too quickly! -10.201918896814163,0.0,-0.4634488518217381
+[23:33:48] [Server thread/INFO]: [@: Set the time to 6000]
+[23:34:05] [Server thread/INFO]: [@: Set the time to 6000]
+[23:34:07] [Server thread/INFO]: Fisherswamp issued server command: //pos1
+[23:34:16] [Server thread/INFO]: Fisherswamp issued server command: //pos2
+[23:34:19] [Server thread/INFO]: Fisherswamp issued server command: //expand vert
+[23:34:21] [Server thread/INFO]: Fisherswamp issued server command: //set air
+[23:34:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7640ms or 152 ticks behind
+[23:34:29] [Server thread/WARN]: Fisherswamp moved too quickly! 71.16598015396295,-15.628500621079269,-57.519600627268545
+[23:34:30] [Server thread/INFO]: [@: Set the time to 6000]
+[23:34:46] [Server thread/INFO]: [@: Set the time to 6000]
+[23:35:03] [Server thread/INFO]: [@: Set the time to 6000]
+[23:35:20] [Server thread/INFO]: [@: Set the time to 6000]
+[23:35:25] [Server thread/INFO]: Fisherswamp issued server command: //pos1
+[23:35:35] [Server thread/INFO]: Fisherswamp issued server command: //pos2
+[23:35:37] [Server thread/INFO]: [@: Set the time to 6000]
+[23:35:37] [Server thread/INFO]: Fisherswamp issued server command: //set air
+[23:35:45] [Server thread/INFO]: Fisherswamp issued server command: //expand vert
+[23:35:46] [Server thread/INFO]: Fisherswamp issued server command: //set air
+[23:35:54] [Server thread/INFO]: [@: Set the time to 6000]
+[23:36:10] [Server thread/INFO]: [@: Set the time to 6000]
+[23:36:27] [Server thread/INFO]: [@: Set the time to 6000]
+[23:36:44] [Server thread/INFO]: [@: Set the time to 6000]
+[23:36:52] [Server thread/INFO]: Fisherswamp issued server command: //pos1
+[23:37:01] [Server thread/INFO]: [@: Set the time to 6000]
+[23:37:12] [Server thread/INFO]: Fisherswamp issued server command: //pos2
+[23:37:16] [Server thread/INFO]: Fisherswamp issued server command: //expand vert
+[23:37:18] [Server thread/INFO]: [@: Set the time to 6000]
+[23:37:20] [Server thread/INFO]: Fisherswamp issued server command: //set air
+[23:37:58] [User Authenticator #6/INFO]: UUID of player temporalmoose is 52c2bdaf-f832-4fdf-b537-6258f381bd33
+[23:38:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41485ms or 829 ticks behind
+[23:38:01] [Server thread/INFO]: temporalmoose lost connection: Disconnected
+[23:38:01] [Server thread/INFO]: temporalmoose left the game
+[23:38:01] [Server thread/INFO]: temporalmoose[/104.185.76.204:60603] logged in with entity id 24465 at ([world]2011.589790084826, 33.68559039660025, 2005.0591126340826)
+[23:38:01] [Server thread/WARN]: Fisherswamp moved too quickly! 56.728300159474486,-78.9932247874193,-94.54480957044706
+[23:38:02] [Server thread/WARN]: Fisherswamp moved too quickly! 5.1269600118646395,27.55683231639763,46.45986136116238
+[23:38:16] [Server thread/INFO]: [@: Set the time to 6000]
+[23:38:33] [Server thread/INFO]: [@: Set the time to 6000]
+[23:38:49] [Server thread/INFO]: [@: Set the time to 6000]
+[23:39:06] [Server thread/INFO]: [@: Set the time to 6000]
+[23:39:11] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:39:16] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:39:23] [Server thread/INFO]: [@: Set the time to 6000]
+[23:39:40] [Server thread/INFO]: [@: Set the time to 6000]
+[23:39:57] [Server thread/INFO]: [@: Set the time to 6000]
+[23:40:13] [Server thread/INFO]: [@: Set the time to 6000]
+[23:40:24] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:40:26] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:40:30] [Server thread/INFO]: [@: Set the time to 6000]
+[23:40:31] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[23:40:47] [Server thread/INFO]: [@: Set the time to 6000]
+[23:41:04] [Server thread/INFO]: [@: Set the time to 6000]
+[23:41:21] [Server thread/INFO]: [@: Set the time to 6000]
+[23:41:37] [Server thread/INFO]: [@: Set the time to 6000]
+[23:41:54] [Server thread/INFO]: [@: Set the time to 6000]
+[23:42:11] [Server thread/INFO]: [@: Set the time to 6000]
+[23:42:28] [Server thread/INFO]: [@: Set the time to 6000]
+[23:42:45] [Server thread/INFO]: [@: Set the time to 6000]
+[23:43:01] [Server thread/INFO]: [@: Set the time to 6000]
+[23:43:18] [Server thread/INFO]: [@: Set the time to 6000]
+[23:43:35] [Server thread/INFO]: [@: Set the time to 6000]
+[23:43:52] [Server thread/INFO]: [@: Set the time to 6000]
+[23:44:09] [Server thread/INFO]: [@: Set the time to 6000]
+[23:44:25] [Server thread/INFO]: [@: Set the time to 6000]
+[23:44:42] [Server thread/INFO]: [@: Set the time to 6000]
+[23:44:59] [Server thread/INFO]: [@: Set the time to 6000]
+[23:45:16] [Server thread/INFO]: [@: Set the time to 6000]
+[23:45:33] [Server thread/INFO]: [@: Set the time to 6000]
+[23:45:49] [Server thread/INFO]: [@: Set the time to 6000]
+[23:46:04] [Server thread/INFO]: Fisherswamp issued server command: /tp temporalmoose Fisherswamp
+[23:46:04] [Server thread/INFO]: [Fisherswamp: Teleported temporalmoose to Fisherswamp]
+[23:46:04] [Server thread/WARN]: temporalmoose moved too quickly! 67.72869610024736,14.231319346840344,-39.714584616631555
+[23:46:35] [Server thread/INFO]: [@: Set the time to 6000]
+[23:46:52] [Server thread/INFO]: [@: Set the time to 6000]
+[23:47:02] [Server thread/INFO]: Fisherswamp lost connection: Disconnected
+[23:47:02] [Server thread/INFO]: Fisherswamp left the game
+[23:47:09] [Server thread/INFO]: [@: Set the time to 6000]
+[23:47:25] [Server thread/INFO]: [@: Set the time to 6000]
+[23:47:26] [Server thread/INFO]: temporalmoose lost connection: Disconnected
+[23:47:26] [Server thread/INFO]: temporalmoose left the game
+[23:47:40] [Server thread/INFO]: Stopping the server
+[23:47:40] [Server thread/INFO]: Stopping server
+[23:47:40] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[23:47:40] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[23:47:40] [Server thread/INFO]: Saving players
+[23:47:40] [Server thread/INFO]: Saving worlds
+[23:47:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:47:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:47:40] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[23:47:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:47:40] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[23:47:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:47:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:47:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

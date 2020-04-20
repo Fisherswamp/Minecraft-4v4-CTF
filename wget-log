@@ -1,0 +1,12 @@
+--2020-04-20 00:13:43--  https://uc1d4805075846e667cdc34152a4.dl.dropboxusercontent.com/zip_download_get/AZmmugGGpgCf_OkQC88tCU8rPasLRvSmHOLy2TMrQu6hb5_PvsnEXX6ZR7j6wVJ_uvyc2KkQOflGHY07kVLNj0FMC47zxwml8czRWWFAW0D1cw?_download_id=49044335947176433003553115286972304835617251310257040871041002461
+Resolving uc1d4805075846e667cdc34152a4.dl.dropboxusercontent.com (uc1d4805075846e667cdc34152a4.dl.dropboxusercontent.com)... 2620:100:601b:6::a27d:806, 162.125.9.6
+Connecting to uc1d4805075846e667cdc34152a4.dl.dropboxusercontent.com (uc1d4805075846e667cdc34152a4.dl.dropboxusercontent.com)|2620:100:601b:6::a27d:806|:443... failed: No route to host.
+Connecting to uc1d4805075846e667cdc34152a4.dl.dropboxusercontent.com (uc1d4805075846e667cdc34152a4.dl.dropboxusercontent.com)|162.125.9.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2207140 (2.1M) [application/zip]
+Saving to: ‘AZmmugGGpgCf_OkQC88tCU8rPasLRvSmHOLy2TMrQu6hb5_PvsnEXX6ZR7j6wVJ_uvyc2KkQOflGHY07kVLNj0FMC47zxwml8czRWWFAW0D1cw?_download_id=49044335947176433003553115286972304835617251310257040871041002461’
+
+               AZmmugGGpgCf_O   0%[                                                  ]       0  --.-KB/s                             AZmmugGGpgCf_Ok  61%[=============================>                    ]   1.30M  6.16MB/s               AZmmugGGpgCf_OkQC88tCU8rPasLR 100%[=================================================>]   2.10M  6.10MB/s    in 0.3s    
+
+2020-04-20 00:13:48 (6.10 MB/s) - ‘AZmmugGGpgCf_OkQC88tCU8rPasLRvSmHOLy2TMrQu6hb5_PvsnEXX6ZR7j6wVJ_uvyc2KkQOflGHY07kVLNj0FMC47zxwml8czRWWFAW0D1cw?_download_id=49044335947176433003553115286972304835617251310257040871041002461’ saved [2207140/2207140]
+
