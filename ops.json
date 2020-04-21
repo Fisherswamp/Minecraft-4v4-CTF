@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "ffcd9765-d5c7-4730-b982-da60f8dfde0e",
+    "name": "Redstreak4",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "095ed8e7-c12a-4520-bb9a-23b1e46c7ede",
     "name": "BACONWRAP",
     "level": 4,
