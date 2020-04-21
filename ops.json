@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "cb7b6e14-ddf6-469f-8375-b2938228df5f",
+    "name": "Ekrakow",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ffcd9765-d5c7-4730-b982-da60f8dfde0e",
     "name": "Redstreak4",
     "level": 4,

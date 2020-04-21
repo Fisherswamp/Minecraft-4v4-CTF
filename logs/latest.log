@@ -1,414 +1,573 @@
-[02:31:48] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[02:31:48] [Server thread/INFO]: Loading properties
-[02:31:48] [Server thread/INFO]: Default game type: ADVENTURE
-[02:31:48] [Server thread/INFO]: Generating keypair
-[02:31:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:31:48] [Server thread/INFO]: Using epoll channel type
-[02:31:49] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[02:31:54] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
-[02:31:55] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@17711233]
-[02:31:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
-[02:31:55] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[02:31:56] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
-[02:31:58] [Server thread/WARN]: [WorldEdit] ====================================================
-[02:31:58] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
-[02:31:58] [Server thread/WARN]: [WorldEdit]  as your server software. 
-[02:31:58] [Server thread/WARN]: [WorldEdit]   
-[02:31:58] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
-[02:31:58] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
-[02:31:58] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
-[02:31:58] [Server thread/WARN]: [WorldEdit]   
-[02:31:58] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
-[02:31:58] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
-[02:31:58] [Server thread/WARN]: [WorldEdit]   
-[02:31:58] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
-[02:31:58] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
-[02:31:58] [Server thread/WARN]: [WorldEdit]   
-[02:31:58] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
-[02:31:58] [Server thread/WARN]: [WorldEdit] ====================================================
-[02:31:58] [Server thread/INFO]: Preparing level "world"
-[02:31:58] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[02:31:59] [Server thread/INFO]: Loaded 6 recipes
-[02:32:00] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[02:32:01] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[02:32:01] [Server thread/INFO]: Preparing spawn area: 0%
-[02:32:01] [Server thread/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[02:32:21] [Server thread/INFO]: Preparing spawn area: 1%
-[02:32:21] [Server thread/INFO]: Time elapsed: 20124 ms
-[02:32:21] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[02:32:22] [Server thread/INFO]: Preparing spawn area: 0%
-[02:32:22] [Server thread/INFO]: Preparing spawn area: 0%
-[02:32:22] [Server-Worker-1/INFO]: Preparing spawn area: 66%
-[02:32:22] [Server-Worker-1/INFO]: Preparing spawn area: 91%
-[02:32:23] [Server-Worker-1/INFO]: Preparing spawn area: 92%
-[02:32:23] [Server-Worker-1/INFO]: Preparing spawn area: 98%
-[02:32:24] [Server thread/INFO]: Time elapsed: 2692 ms
-[02:32:24] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[02:32:24] [Server thread/INFO]: Preparing spawn area: 0%
-[02:32:24] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[02:32:25] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[02:32:25] [Server thread/INFO]: Time elapsed: 1256 ms
-[02:32:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:32:25] [Server thread/INFO]: Done (27.416s)! For help, type "help"
-[02:32:38] [User Authenticator #1/INFO]: UUID of player Fisherswamp is 4b5cfac2-5de7-4a24-89ed-22991e86d077
-[02:32:38] [Server thread/INFO]: Fisherswamp[/173.95.177.86:59689] logged in with entity id 17 at ([world]2490.228862132346, 115.40193491943585, 1998.0108382153292)
-[02:34:38] [Server thread/INFO]: Fisherswamp lost connection: Disconnected
-[02:34:38] [Server thread/INFO]: Fisherswamp left the game
-[15:45:37] [User Authenticator #2/INFO]: UUID of player Fisherswamp is 4b5cfac2-5de7-4a24-89ed-22991e86d077
-[15:45:37] [Server thread/INFO]: Fisherswamp[/173.95.177.86:60434] logged in with entity id 18 at ([world]2465.056582905119, 109.03260241081908, 1988.8128846732668)
-[15:49:18] [Server thread/INFO]: Fisherswamp issued server command: //set minecraft:bricks
-[15:49:31] [Server thread/INFO]: Fisherswamp issued server command: //walls minecraft:bricks
-[15:49:42] [Server thread/INFO]: Fisherswamp issued server command: //walls minecraft:bricks
-[15:59:15] [Server thread/INFO]: Fisherswamp issued server command: //copy
-[15:59:19] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
-[15:59:25] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[15:59:31] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[15:59:35] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[15:59:37] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[15:59:42] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[15:59:45] [Server thread/INFO]: Fisherswamp issued server command: //redo
-[15:59:47] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:00:11] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:00:14] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:02:23] [Server thread/INFO]: Fisherswamp issued server command: /gamemode survival
-[16:02:23] [Server thread/INFO]: [Fisherswamp: Set own game mode to Survival Mode]
-[16:03:00] [Server thread/INFO]: Fisherswamp issued server command: /gamemode creative
-[16:03:00] [Server thread/INFO]: [Fisherswamp: Set own game mode to Creative Mode]
-[16:03:02] [Server thread/INFO]: Fisherswamp fell out of the world
-[16:03:04] [Server thread/INFO]: [@: Teleported Fisherswamp to 1000.5, 65.0, 1000.5]
-[16:03:04] [Server thread/INFO]: [@: Teleported Fisherswamp to 1000.5, 65.0, 1000.5]
-[16:03:30] [Server thread/INFO]: Fisherswamp issued server command: /tp 2000 80 2000
-[16:03:31] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2000.5, 80.0, 2000.5]
-[16:03:42] [Server thread/INFO]: [@: Set the time to 6000]
-[16:03:59] [Server thread/INFO]: [@: Set the time to 6000]
-[16:04:16] [Server thread/INFO]: [@: Set the time to 6000]
-[16:04:33] [Server thread/INFO]: [@: Set the time to 6000]
-[16:04:49] [Server thread/INFO]: [@: Set the time to 6000]
-[16:05:06] [Server thread/INFO]: [@: Set the time to 6000]
-[16:05:23] [Server thread/INFO]: [@: Set the time to 6000]
-[16:05:40] [Server thread/INFO]: [@: Set the time to 6000]
-[16:05:57] [Server thread/INFO]: [@: Set the time to 6000]
-[16:06:13] [Server thread/INFO]: [@: Set the time to 6000]
-[16:06:30] [Server thread/INFO]: [@: Set the time to 6000]
-[16:06:47] [Server thread/INFO]: [@: Set the time to 6000]
-[16:07:04] [Server thread/INFO]: [@: Set the time to 6000]
-[16:07:21] [Server thread/INFO]: [@: Set the time to 6000]
-[16:07:37] [Server thread/INFO]: [@: Set the time to 6000]
-[16:07:54] [Server thread/INFO]: [@: Set the time to 6000]
-[16:08:11] [Server thread/INFO]: [@: Set the time to 6000]
-[16:08:28] [Server thread/INFO]: [@: Set the time to 6000]
-[16:08:45] [Server thread/INFO]: [@: Set the time to 6000]
-[16:09:01] [Server thread/INFO]: [@: Set the time to 6000]
-[16:09:18] [Server thread/INFO]: [@: Set the time to 6000]
-[16:09:35] [Server thread/INFO]: [@: Set the time to 6000]
-[16:09:52] [Server thread/INFO]: [@: Set the time to 6000]
-[16:10:09] [Server thread/INFO]: [@: Set the time to 6000]
-[16:10:25] [Server thread/INFO]: [@: Set the time to 6000]
-[16:10:42] [Server thread/INFO]: Fisherswamp issued server command: //wand
-[16:10:42] [Server thread/INFO]: [@: Set the time to 6000]
-[16:10:54] [Server thread/INFO]: Fisherswamp issued server command: //copy
-[16:10:57] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
-[16:10:58] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:10:59] [Server thread/INFO]: [@: Set the time to 6000]
-[16:11:16] [Server thread/INFO]: [@: Set the time to 6000]
-[16:11:22] [Server thread/INFO]: Fisherswamp issued server command: //copy
-[16:11:24] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
-[16:11:25] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:11:33] [Server thread/INFO]: [@: Set the time to 6000]
-[16:11:33] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:11:43] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:11:49] [Server thread/INFO]: [@: Set the time to 6000]
-[16:11:56] [Server thread/INFO]: Fisherswamp issued server command: //replace sand air
-[16:12:04] [Server thread/INFO]: Fisherswamp issued server command: //replace water minecraft:sandstone
-[16:12:06] [Server thread/INFO]: [@: Set the time to 6000]
-[16:12:17] [Server thread/INFO]: Fisherswamp issued server command: //walls sandstone
-[16:12:23] [Server thread/INFO]: [@: Set the time to 6000]
-[16:12:32] [Server thread/INFO]: Fisherswamp issued server command: //walls sandstone
-[16:12:40] [Server thread/INFO]: [@: Set the time to 6000]
-[16:12:57] [Server thread/INFO]: [@: Set the time to 6000]
-[16:13:13] [Server thread/INFO]: [@: Set the time to 6000]
-[16:13:30] [Server thread/INFO]: [@: Set the time to 6000]
-[16:13:47] [Server thread/INFO]: [@: Set the time to 6000]
-[16:14:04] [Server thread/INFO]: [@: Set the time to 6000]
-[16:14:21] [Server thread/INFO]: [@: Set the time to 6000]
-[16:14:37] [Server thread/INFO]: [@: Set the time to 6000]
-[16:14:54] [Server thread/INFO]: [@: Set the time to 6000]
-[16:15:11] [Server thread/INFO]: [@: Set the time to 6000]
-[16:15:28] [Server thread/INFO]: [@: Set the time to 6000]
-[16:15:45] [Server thread/INFO]: [@: Set the time to 6000]
-[16:16:01] [Server thread/INFO]: [@: Set the time to 6000]
-[16:16:18] [Server thread/INFO]: [@: Set the time to 6000]
-[16:16:35] [Server thread/INFO]: [@: Set the time to 6000]
-[16:18:19] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:18:46] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:18:51] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:19:00] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:19:00] [Server thread/WARN]: Fisherswamp moved too quickly! -108.88151578933821,-6.999736116982433,132.17602645939564
-[16:19:09] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:19:11] [Server thread/INFO]: [@: Set the time to 6000]
-[16:19:14] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:19:27] [Server thread/INFO]: [@: Set the time to 6000]
-[16:19:44] [Server thread/INFO]: [@: Set the time to 6000]
-[16:20:01] [Server thread/INFO]: [@: Set the time to 6000]
-[16:20:18] [Server thread/INFO]: [@: Set the time to 6000]
-[16:20:35] [Server thread/INFO]: [@: Set the time to 6000]
-[16:20:51] [Server thread/INFO]: [@: Set the time to 6000]
-[16:21:08] [Server thread/INFO]: [@: Set the time to 6000]
-[16:22:26] [Server thread/INFO]: Fisherswamp issued server command: /tp ~150 ~ ~
-[16:22:26] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2650.4733494406496, 39.24341321608182, 2000.4602407120133]
-[16:22:26] [Server thread/WARN]: Fisherswamp moved too quickly! 150.0,0.0,0.0
-[16:22:28] [Server thread/INFO]: Fisherswamp issued server command: /up 1
-[16:23:01] [Server thread/INFO]: Fisherswamp issued server command: //copy
-[16:23:03] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
-[16:23:05] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:23:08] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[16:23:10] [Server thread/INFO]: Fisherswamp issued server command: //copy
-[16:23:13] [Server thread/INFO]: Fisherswamp issued server command: //rotate 180
-[16:23:15] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:23:30] [Server thread/INFO]: Fisherswamp issued server command: //copy
-[16:23:32] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
-[16:23:42] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:23:52] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:24:20] [Server thread/INFO]: Fisherswamp issued server command: //replace air stone
-[16:24:48] [Server thread/INFO]: Fisherswamp issued server command: //replace air stone
-[16:25:03] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:sandstone stone
-[16:25:30] [Server thread/INFO]: Fisherswamp issued server command: //replace stone 10%iron,85%stone,minecraft:diamond_block
-[16:25:42] [Server thread/INFO]: Fisherswamp issued server command: //replace stone 10%iron,minecraft:sto,minecraft:diamond_block
-[16:25:56] [Server thread/INFO]: Fisherswamp issued server command: //replace stone 10%minecraft:iron_ore,minecraft:stone,minecraft:diamond_block
-[16:26:00] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[16:26:40] [Server thread/INFO]: Fisherswamp issued server command: //replace stone 10%minecraft:iron_ore,85%minecraft:stone,5%minecraft:diamond_ore
-[16:26:49] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[16:26:58] [Server thread/INFO]: Fisherswamp issued server command: //replace stone 10%minecraft:iron_ore,89%minecraft:stone,1%minecraft:diamond_ore
-[16:27:34] [Server thread/INFO]: Fisherswamp issued server command: //replace stone 1%minecraft:iron_diamond_ore,89%minecraft:stone,10%minecraft:iron_ore
-[16:27:44] [Server thread/INFO]: Fisherswamp issued server command: //replace stone 1%minecraft:diamond_ore,89%minecraft:stone,10%minecraft:iron_ore
-[16:27:46] [Server thread/INFO]: Fisherswamp issued server command: //set stone
-[16:27:49] [Server thread/INFO]: Fisherswamp issued server command: //replace stone 1%minecraft:diamond_ore,89%minecraft:stone,10%minecraft:iron_ore
-[16:28:17] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:diamond_ore 50%minecraft:diamond_ore,50%minecraft:gold_ore
-[16:28:22] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:diamond_ore 50%minecraft:diamond_ore,50%minecraft:gold_ore
-[16:29:04] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:diamond_ore 50%minecraft:diamond_ore,50%minecraft:gold_ore
-[16:29:06] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:diamond_ore 50%minecraft:diamond_ore,50%minecraft:gold_ore
-[16:29:45] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:iron_ore 80%minecraft:stone,20%minecraft:iron_ore
-[16:29:52] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:iron_ore 80%minecraft:stone,20%minecraft:iron_ore
-[16:29:57] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[16:30:06] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:iron_ore 50%minecraft:stone,50%minecraft:iron_ore
-[16:30:10] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:iron_ore 50%minecraft:stone,50%minecraft:iron_ore
-[16:31:08] [Server thread/INFO]: Fisherswamp issued server command: /time set day
-[16:31:08] [Server thread/INFO]: [Fisherswamp: Set the time to 1000]
-[16:31:26] [Server thread/INFO]: Fisherswamp issued server command: //copy
-[16:31:35] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:31:50] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[16:32:13] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[16:32:15] [Server thread/INFO]: Fisherswamp issued server command: //redo
-[16:32:17] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:33:05] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:33:33] [User Authenticator #3/INFO]: UUID of player Redstreak4 is ffcd9765-d5c7-4730-b982-da60f8dfde0e
-[16:33:33] [Server thread/INFO]: Redstreak4[/24.211.128.98:61984] logged in with entity id 90 at ([world]1000.5, 56.0, 999.5)
-[16:33:37] [Server thread/INFO]: Fisherswamp issued server command: /op Redstreak4
-[16:33:37] [Server thread/INFO]: [Fisherswamp: Made Redstreak4 a server operator]
-[16:33:39] [Server thread/INFO]: Fisherswamp issued server command: /tp Redstreak4 Fisherswamp
-[16:33:39] [Server thread/INFO]: [Fisherswamp: Teleported Redstreak4 to Fisherswamp]
-[16:33:44] [Server thread/INFO]: Redstreak4 issued server command: /gamemode creative
-[16:33:44] [Server thread/INFO]: [Redstreak4: Set own game mode to Creative Mode]
-[16:33:59] [Server thread/INFO]: Fisherswamp issued server command: /tp Redstreak4 Fisherswamp
-[16:33:59] [Server thread/INFO]: [Fisherswamp: Teleported Redstreak4 to Fisherswamp]
-[16:34:04] [Server thread/INFO]: Fisherswamp issued server command: /tp Redstreak4 Fisherswamp
-[16:34:04] [Server thread/INFO]: [Fisherswamp: Teleported Redstreak4 to Fisherswamp]
-[16:37:29] [Server thread/INFO]: [@: Set the time to 6000]
-[16:37:46] [Server thread/INFO]: [@: Set the time to 6000]
-[16:38:03] [Server thread/INFO]: [@: Set the time to 6000]
-[16:38:20] [Server thread/INFO]: [@: Set the time to 6000]
-[16:38:36] [Server thread/INFO]: [@: Set the time to 6000]
-[16:38:53] [Server thread/INFO]: [@: Set the time to 6000]
-[16:39:10] [Server thread/INFO]: [@: Set the time to 6000]
-[16:39:27] [Server thread/INFO]: [@: Set the time to 6000]
-[16:39:44] [Server thread/INFO]: [@: Set the time to 6000]
-[16:40:10] [Server thread/INFO]: Redstreak4 has made the advancement [We Need to Go Deeper]
-[16:41:17] [Server thread/INFO]: [@: Set the time to 6000]
-[16:41:33] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:41:34] [Server thread/INFO]: [@: Set the time to 6000]
-[16:41:51] [Server thread/INFO]: [@: Set the time to 6000]
-[16:42:07] [Server thread/INFO]: [@: Set the time to 6000]
-[16:42:24] [Server thread/INFO]: [@: Set the time to 6000]
-[16:42:41] [Server thread/INFO]: [@: Set the time to 6000]
-[16:42:58] [Server thread/INFO]: [@: Set the time to 6000]
-[16:43:15] [Server thread/INFO]: [@: Set the time to 6000]
-[16:43:31] [Server thread/INFO]: [@: Set the time to 6000]
-[16:43:33] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[16:43:58] [Server thread/INFO]: [@: Set the time to 6000]
-[16:44:26] [Server thread/INFO]: [@: Set the time to 6000]
-[16:44:43] [Server thread/INFO]: [@: Set the time to 6000]
-[16:45:00] [Server thread/INFO]: [@: Set the time to 6000]
-[16:45:18] [Server thread/INFO]: Redstreak4 issued server command: //wand
-[16:45:25] [Server thread/INFO]: Fisherswamp issued server command: /up 1
-[16:45:30] [Server thread/INFO]: Redstreak4 issued server command: /up1
-[16:45:33] [Server thread/INFO]: Redstreak4 issued server command: /up 1
-[16:45:53] [Server thread/INFO]: Fisherswamp issued server command: //set stone
-[16:46:10] [Server thread/INFO]: Fisherswamp issued server command: //replace standstone water
-[16:46:23] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:standstone minecraft:water
-[16:46:33] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:standstone_bricks minecraft:water
-[16:46:42] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:sandstone_bricks minecraft:water
-[16:47:12] [Server thread/INFO]: Fisherswamp issued server command: //set 50%minecraft:oak_wood,50%stone
-[16:47:18] [Server thread/INFO]: Fisherswamp issued server command: //set 50%minecraft:oak_wood,50%stone
-[16:47:19] [Server thread/INFO]: Fisherswamp issued server command: //set 50%minecraft:oak_wood,50%stone
-[16:47:19] [Server thread/INFO]: Fisherswamp issued server command: //set 50%minecraft:oak_wood,50%stone
-[16:47:20] [Server thread/INFO]: Fisherswamp issued server command: //set 50%minecraft:oak_wood,50%stone
-[16:47:21] [Server thread/INFO]: Fisherswamp issued server command: //set 50%minecraft:oak_wood,50%stone
-[16:48:02] [Server thread/INFO]: Fisherswamp issued server command: //copy
-[16:48:03] [Server thread/INFO]: Fisherswamp issued server command: //rotate 90
-[16:48:05] [Server thread/INFO]: Fisherswamp issued server command: //paste
-[16:48:54] [Server thread/INFO]: [@: Set the time to 6000]
-[16:49:11] [Server thread/INFO]: [@: Set the time to 6000]
-[16:49:27] [Server thread/INFO]: [@: Set the time to 6000]
-[16:49:44] [Server thread/INFO]: [@: Set the time to 6000]
-[16:50:01] [Server thread/INFO]: [@: Set the time to 6000]
-[16:50:18] [Server thread/INFO]: [@: Set the time to 6000]
-[16:50:35] [Server thread/INFO]: [@: Set the time to 6000]
-[16:50:51] [Server thread/INFO]: [@: Set the time to 6000]
-[16:51:20] [Server thread/INFO]: [@: Set the time to 6000]
-[16:51:37] [Server thread/INFO]: [@: Set the time to 6000]
-[16:51:54] [Server thread/INFO]: [@: Set the time to 6000]
-[16:52:11] [Server thread/INFO]: [@: Set the time to 6000]
-[16:52:28] [Server thread/INFO]: [@: Set the time to 6000]
-[16:52:44] [Server thread/INFO]: [@: Set the time to 6000]
-[16:53:01] [Server thread/INFO]: [@: Set the time to 6000]
-[16:53:18] [Server thread/INFO]: [@: Set the time to 6000]
-[16:53:35] [Server thread/INFO]: [@: Set the time to 6000]
-[16:53:52] [Server thread/INFO]: [@: Set the time to 6000]
-[16:54:08] [Server thread/INFO]: [@: Set the time to 6000]
-[16:54:25] [Server thread/INFO]: [@: Set the time to 6000]
-[16:54:42] [Server thread/INFO]: [@: Set the time to 6000]
-[16:54:59] [Server thread/INFO]: [@: Set the time to 6000]
-[16:55:12] [Server thread/INFO]: Redstreak4 has made the advancement [Suit Up]
-[16:55:16] [Server thread/INFO]: [@: Set the time to 6000]
-[16:55:26] [Server thread/INFO]: Fisherswamp issued server command: /gamemode adventure Redstreak4
-[16:55:26] [Server thread/INFO]: [Fisherswamp: Set Redstreak4's game mode to Adventure Mode]
-[16:55:27] [Server thread/INFO]: Fisherswamp issued server command: /tp Redstreak4 Fisherswamp
-[16:55:27] [Server thread/INFO]: [Fisherswamp: Teleported Redstreak4 to Fisherswamp]
-[16:55:31] [Server thread/INFO]: Redstreak4 issued server command: /gamemode creative
-[16:55:31] [Server thread/INFO]: [Redstreak4: Set own game mode to Creative Mode]
-[16:55:32] [Server thread/INFO]: [@: Set the time to 6000]
-[16:55:32] [Server thread/INFO]: Redstreak4 fell out of the world
-[16:55:49] [Server thread/INFO]: [@: Set the time to 6000]
-[16:56:06] [Server thread/INFO]: [@: Set the time to 6000]
-[16:56:23] [Server thread/INFO]: [@: Set the time to 6000]
-[16:56:40] [Server thread/INFO]: [@: Set the time to 6000]
-[16:56:56] [Server thread/INFO]: [@: Set the time to 6000]
-[16:57:13] [Server thread/INFO]: [@: Set the time to 6000]
-[16:57:30] [Server thread/INFO]: [@: Set the time to 6000]
-[16:57:47] [Server thread/INFO]: [@: Set the time to 6000]
-[16:58:04] [Server thread/INFO]: [@: Set the time to 6000]
-[16:58:20] [Server thread/INFO]: [@: Set the time to 6000]
-[16:58:37] [Server thread/INFO]: [@: Set the time to 6000]
-[16:59:03] [Server thread/INFO]: [@: Set the time to 6000]
-[16:59:19] [Server thread/INFO]: [@: Set the time to 6000]
-[16:59:36] [Server thread/INFO]: [@: Set the time to 6000]
-[16:59:53] [Server thread/INFO]: [@: Set the time to 6000]
-[17:00:10] [Server thread/INFO]: [@: Set the time to 6000]
-[17:00:27] [Server thread/INFO]: [@: Set the time to 6000]
-[17:00:43] [Server thread/INFO]: [@: Set the time to 6000]
-[17:01:00] [Server thread/INFO]: [@: Set the time to 6000]
-[17:01:17] [Server thread/INFO]: [@: Set the time to 6000]
-[17:01:34] [Server thread/INFO]: [@: Set the time to 6000]
-[17:01:51] [Server thread/INFO]: [@: Set the time to 6000]
-[17:02:07] [Server thread/INFO]: [@: Set the time to 6000]
-[17:02:24] [Server thread/INFO]: [@: Set the time to 6000]
-[17:02:41] [Server thread/INFO]: [@: Set the time to 6000]
-[17:02:58] [Server thread/INFO]: [@: Set the time to 6000]
-[17:03:15] [Server thread/INFO]: [@: Set the time to 6000]
-[17:03:31] [Server thread/INFO]: [@: Set the time to 6000]
-[17:03:48] [Server thread/INFO]: [@: Set the time to 6000]
-[17:04:05] [Server thread/INFO]: [@: Set the time to 6000]
-[17:04:22] [Server thread/INFO]: [@: Set the time to 6000]
-[17:04:39] [Server thread/INFO]: [@: Set the time to 6000]
-[17:04:55] [Server thread/INFO]: [@: Set the time to 6000]
-[17:05:12] [Server thread/INFO]: [@: Set the time to 6000]
-[17:05:25] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[17:05:29] [Server thread/INFO]: [@: Set the time to 6000]
-[17:05:33] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[17:05:35] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[17:05:38] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
-[17:06:04] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:diamond_ore minecraft:lapis_ore
-[17:06:55] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:stone 95%minecraft:stone,5%minecraft:lapis_ore
-[17:07:05] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[17:07:12] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:stone 99%minecraft:stone,1%minecraft:lapis_ore
-[17:07:23] [Server thread/INFO]: Fisherswamp issued server command: //count minecraft:lapis_ore
-[17:07:45] [Server thread/INFO]: Fisherswamp issued server command: //count minecraft:iron_ore
-[17:07:54] [Server thread/INFO]: Fisherswamp issued server command: //count minecraft:gold_ore
-[17:08:21] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:lapis_ore 10%minecraft:lapis_ore,90%minecraft:stone
-[17:08:24] [Server thread/INFO]: Fisherswamp issued server command: //count minecraft:lapis_ore
-[17:08:34] [Server thread/INFO]: Fisherswamp issued server command: //undo
-[17:08:42] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:lapis_ore 20%minecraft:lapis_ore,80%minecraft:stone
-[17:08:44] [Server thread/INFO]: Fisherswamp issued server command: //count minecraft:lapis_ore
-[17:10:54] [Server thread/INFO]: [@: Set the time to 6000]
-[17:11:10] [Server thread/INFO]: [@: Set the time to 6000]
-[17:11:27] [Server thread/INFO]: [@: Set the time to 6000]
-[17:12:13] [Server thread/INFO]: [@: Set the time to 6000]
-[17:12:29] [Server thread/INFO]: [@: Set the time to 6000]
-[17:12:46] [Server thread/INFO]: [@: Set the time to 6000]
-[17:13:03] [Server thread/INFO]: [@: Set the time to 6000]
-[17:13:20] [Server thread/INFO]: [@: Set the time to 6000]
-[17:13:37] [Server thread/INFO]: [@: Set the time to 6000]
-[17:13:53] [Server thread/INFO]: [@: Set the time to 6000]
-[17:13:55] [Server thread/INFO]: Fisherswamp issued server command: //pos2
-[17:14:07] [Server thread/INFO]: Fisherswamp issued server command: //pos1
-[17:14:10] [Server thread/INFO]: [@: Set the time to 6000]
-[17:14:27] [Server thread/INFO]: [@: Set the time to 6000]
-[17:14:29] [Server thread/INFO]: Fisherswamp issued server command: //replace minecraft:stone 97%minecraft:stone,3%minecraft:redstone_ore
-[17:14:44] [Server thread/INFO]: [@: Set the time to 6000]
-[17:14:54] [Server thread/INFO]: Redstreak4 lost connection: Disconnected
-[17:14:54] [Server thread/INFO]: Redstreak4 left the game
-[17:14:57] [Server thread/INFO]: Fisherswamp lost connection: Disconnected
-[17:14:57] [Server thread/INFO]: Fisherswamp left the game
-[17:15:12] [Server thread/INFO]: Stopping the server
-[17:15:12] [Server thread/INFO]: Stopping server
-[17:15:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
-[17:15:12] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[17:15:12] [Server thread/INFO]: Saving players
-[17:15:12] [Server thread/INFO]: Saving worlds
-[17:15:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:15:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:15:12] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[17:15:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:15:12] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[17:15:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:15:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:15:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:15:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:46:14] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:46:14] [Server thread/INFO]: Loading properties
+[20:46:14] [Server thread/INFO]: Default game type: ADVENTURE
+[20:46:14] [Server thread/INFO]: Generating keypair
+[20:46:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:46:15] [Server thread/INFO]: Using epoll channel type
+[20:46:15] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[20:46:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[20:46:21] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3362792f]
+[20:46:21] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[20:46:21] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:46:21] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[20:46:23] [Server thread/WARN]: [WorldEdit] ====================================================
+[20:46:23] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[20:46:23] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[20:46:23] [Server thread/WARN]: [WorldEdit]   
+[20:46:23] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[20:46:23] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[20:46:23] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[20:46:23] [Server thread/WARN]: [WorldEdit]   
+[20:46:23] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[20:46:23] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[20:46:23] [Server thread/WARN]: [WorldEdit]   
+[20:46:23] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[20:46:23] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[20:46:23] [Server thread/WARN]: [WorldEdit]   
+[20:46:23] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[20:46:23] [Server thread/WARN]: [WorldEdit] ====================================================
+[20:46:23] [Server thread/INFO]: Preparing level "world"
+[20:46:24] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:46:24] [Server thread/INFO]: Loaded 6 recipes
+[20:46:26] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:46:27] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[20:46:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:46:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:46:47] [Server thread/INFO]: Time elapsed: 20547 ms
+[20:46:47] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[20:46:48] [Server thread/INFO]: Preparing spawn area: 0%
+[20:46:48] [Server thread/INFO]: Preparing spawn area: 0%
+[20:46:48] [Server-Worker-1/INFO]: Preparing spawn area: 91%
+[20:46:49] [Server-Worker-1/INFO]: Preparing spawn area: 91%
+[20:46:49] [Server-Worker-1/INFO]: Preparing spawn area: 91%
+[20:46:50] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[20:46:50] [Server thread/INFO]: Time elapsed: 2778 ms
+[20:46:50] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[20:46:50] [Server thread/INFO]: Preparing spawn area: 0%
+[20:46:51] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[20:46:51] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[20:46:51] [Server thread/INFO]: Time elapsed: 1113 ms
+[20:46:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:46:51] [Server thread/INFO]: Done (27.892s)! For help, type "help"
+[20:47:05] [User Authenticator #1/INFO]: UUID of player Fisherswamp is 4b5cfac2-5de7-4a24-89ed-22991e86d077
+[20:47:06] [Server thread/INFO]: Fisherswamp[/173.95.177.86:62204] logged in with entity id 17 at ([world]2487.5064112783034, 41.0, 2156.1626748391077)
+[20:47:12] [Server thread/INFO]: [@: Summoned new DigMinecraft]
+[20:47:13] [User Authenticator #2/INFO]: UUID of player temporalmoose is 52c2bdaf-f832-4fdf-b537-6258f381bd33
+[20:47:14] [Server thread/INFO]: temporalmoose[/104.185.76.204:63988] logged in with entity id 62 at ([world]2020.699999988079, 34.16918437497945, 2002.81392423602)
+[20:47:14] [Server thread/INFO]: [@: Set the weather to clear]
+[20:47:14] [Server thread/INFO]: [@: Set the time to 6000]
+[20:47:31] [Server thread/INFO]: [@: Set the weather to clear]
+[20:47:31] [Server thread/INFO]: [@: Set the time to 6000]
+[20:47:37] [Server thread/INFO]: temporalmoose issued server command: /kill @e
+[20:47:37] [Server thread/INFO]: Fisherswamp fell out of the world
+[20:47:37] [Server thread/INFO]: Villager EntityVillager['DigMinecraft'/61, l='world', x=2496.20, y=41.00, z=2167.80] died, message: 'DigMinecraft fell out of the world'
+[20:47:37] [Server thread/INFO]: temporalmoose fell out of the world
+[20:47:37] [Server thread/INFO]: Villager EntityVillager['Villager'/65, l='world', x=2009.09, y=36.00, z=2017.48] died, message: 'Villager fell out of the world'
+[20:47:37] [Server thread/INFO]: [temporalmoose: Killed 65 entities]
+[20:47:45] [Server thread/INFO]: [@: Teleported Fisherswamp to 1000.5, 65.0, 1000.5]
+[20:47:45] [Server thread/INFO]: [@: Teleported temporalmoose to 1000.5, 65.0, 1000.5]
+[20:47:56] [Server thread/INFO]: Fisherswamp issued server command: /tp 2000 60 2000
+[20:47:56] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to 2000.5, 60.0, 2000.5]
+[20:48:01] [Server thread/INFO]: temporalmoose issued server command: /tp temporalmoose 2000 3 2000
+[20:48:01] [Server thread/INFO]: [temporalmoose: Teleported temporalmoose to 2000.5, 3.0, 2000.5]
+[20:48:05] [Server thread/INFO]: [@: Set the weather to clear]
+[20:48:05] [Server thread/INFO]: [@: Set the time to 6000]
+[20:48:22] [Server thread/INFO]: [@: Set the weather to clear]
+[20:48:22] [Server thread/INFO]: [@: Set the time to 6000]
+[20:48:39] [Server thread/INFO]: [@: Set the weather to clear]
+[20:48:39] [Server thread/INFO]: [@: Set the time to 6000]
+[20:48:44] [Server thread/INFO]: Fisherswamp issued server command: /gamemode survival
+[20:48:44] [Server thread/INFO]: [Fisherswamp: Set own game mode to Survival Mode]
+[20:48:55] [Server thread/INFO]: [@: Summoned new DigMinecraft]
+[20:48:56] [Server thread/INFO]: [@: Set the weather to clear]
+[20:48:56] [Server thread/INFO]: [@: Set the time to 6000]
+[20:49:02] [Server thread/INFO]: Fisherswamp issued server command: /tp temporalmoose Fisherswamp
+[20:49:02] [Server thread/INFO]: [Fisherswamp: Teleported temporalmoose to Fisherswamp]
+[20:49:19] [Server thread/INFO]: temporalmoose issued server command: /gamemode survival
+[20:49:19] [Server thread/INFO]: [temporalmoose: Set own game mode to Survival Mode]
+[20:49:31] [Server thread/INFO]: temporalmoose issued server command: /gamemode creative
+[20:49:31] [Server thread/INFO]: [temporalmoose: Set own game mode to Creative Mode]
+[20:49:45] [Server thread/INFO]: Fisherswamp issued server command: /gamemode creative
+[20:49:45] [Server thread/INFO]: [Fisherswamp: Set own game mode to Creative Mode]
+[20:51:30] [Server thread/INFO]: [@: Summoned new Armorer]
+[20:52:13] [Server thread/INFO]: [@: Summoned new Armorer]
+[20:52:16] [Server thread/INFO]: Fisherswamp has made the advancement [What a Deal!]
+[20:52:27] [Server thread/INFO]: Villager EntityVillager['Villager'/1309, l='world', x=2488.44, y=41.00, z=2139.65] died, message: 'Villager was slain by Fisherswamp'
+[20:52:36] [Server thread/INFO]: Villager EntityVillager['Armorer'/1465, l='world', x=2476.84, y=41.00, z=2154.15] died, message: 'Armorer was slain by Fisherswamp'
+[20:52:37] [Server thread/INFO]: Villager EntityVillager['Armorer'/1483, l='world', x=2475.13, y=41.00, z=2158.05] died, message: 'Armorer was slain by Fisherswamp'
+[20:52:42] [Server thread/INFO]: Villager EntityVillager['DigMinecraft'/1312, l='world', x=2491.58, y=42.25, z=2147.33] died, message: 'DigMinecraft was slain by Fisherswamp'
+[20:52:55] [Server thread/INFO]: Villager EntityVillager['Villager'/1310, l='world', x=2501.48, y=41.00, z=2141.57] died, message: 'Villager was slain by Fisherswamp'
+[20:53:18] [Server thread/INFO]: [@: Summoned new Herry]
+[20:53:56] [Server thread/INFO]: [@: Summoned new Herry]
+[20:53:59] [Server thread/INFO]: [@: Summoned new Herry]
+[20:54:14] [Server thread/INFO]: Villager EntityVillager['Herry'/1487, l='world', x=2485.07, y=41.00, z=2155.93] died, message: 'Herry was slain by temporalmoose'
+[20:54:17] [Server thread/INFO]: Villager EntityVillager['Herry'/1484, l='world', x=2485.37, y=41.00, z=2146.48] died, message: 'Herry was slain by temporalmoose'
+[20:55:00] [Server thread/INFO]: [@: Set the weather to clear]
+[20:55:00] [Server thread/INFO]: [@: Set the time to 6000]
+[20:55:06] [Server thread/INFO]: temporalmoose issued server command: /forceload
+[20:55:10] [Server thread/INFO]: [@: Set the weather to clear]
+[20:55:10] [Server thread/INFO]: [@: Set the time to 6000]
+[20:55:11] [Server thread/INFO]: temporalmoose issued server command: /forceload add
+[20:55:15] [Server thread/INFO]: temporalmoose issued server command: /forceload add 2008
+[20:55:17] [Server thread/INFO]: [@: Set the weather to clear]
+[20:55:17] [Server thread/INFO]: [@: Set the time to 6000]
+[20:55:19] [Server thread/INFO]: temporalmoose issued server command: /forceload add 2008 2008
+[20:55:19] [Server thread/INFO]: [temporalmoose: Marked chunk [125, 125] in minecraft:overworld to be force loaded]
+[20:55:23] [Server thread/INFO]: Fisherswamp issued server command: /summon villager ~ ~1 ~ {VillagerData:{profession:armorer,level:5,type:taiga},Invulnerable:1,Silent:1,Offers:{Recipes:[{buy:{id:emerald,Count:1},sell:{id:iron_sword,Count:1,tag:{Enchantments:[{id:unbreaking,lvl:2}]}},rewardExp:0b,maxUses:9999999}]}}
+[20:55:23] [Server thread/INFO]: [Fisherswamp: Summoned new Armorer]
+[20:55:26] [Server thread/INFO]: [@: Set the weather to clear]
+[20:55:26] [Server thread/INFO]: [@: Set the time to 6000]
+[20:55:34] [Server thread/INFO]: [@: Set the weather to clear]
+[20:55:34] [Server thread/INFO]: [@: Set the time to 6000]
+[20:55:43] [Server thread/INFO]: [@: Set the weather to clear]
+[20:55:43] [Server thread/INFO]: [@: Set the time to 6000]
+[20:55:44] [Server thread/INFO]: Villager EntityVillager['Armorer'/1504, l='world', x=2500.36, y=41.00, z=2160.31] died, message: 'Armorer was slain by Fisherswamp'
+[20:55:46] [Server thread/INFO]: Fisherswamp issued server command: /summon villager ~ ~1 ~ {VillagerData:{profession:armorer,level:5,type:taiga},Invulnerable:1,Silent:1,CustomName:"\"Gay Bowser\"",ActiveEffects:[{Id:31,Amplifier:0,Duration:999999}]}
+[20:55:46] [Server thread/INFO]: [Fisherswamp: Summoned new Gay Bowser]
+[20:55:51] [Server thread/INFO]: [@: Set the weather to clear]
+[20:55:51] [Server thread/INFO]: [@: Set the time to 6000]
+[20:56:00] [Server thread/INFO]: [@: Set the weather to clear]
+[20:56:00] [Server thread/INFO]: [@: Set the time to 6000]
+[20:56:08] [Server thread/INFO]: [@: Set the weather to clear]
+[20:56:08] [Server thread/INFO]: [@: Set the time to 6000]
+[20:56:17] [Server thread/INFO]: [@: Set the weather to clear]
+[20:56:17] [Server thread/INFO]: [@: Set the time to 6000]
+[20:56:23] [Server thread/INFO]: Fisherswamp has made the advancement [Ol' Betsy]
+[20:56:24] [Server thread/INFO]: [@: Set the weather to clear]
+[20:56:24] [Server thread/INFO]: [@: Set the time to 6000]
+[20:56:34] [Server thread/INFO]: [@: Set the weather to clear]
+[20:56:34] [Server thread/INFO]: [@: Set the time to 6000]
+[20:56:41] [Server thread/INFO]: Fisherswamp has made the advancement [Take Aim]
+[20:56:41] [Server thread/INFO]: [@: Set the weather to clear]
+[20:56:41] [Server thread/INFO]: [@: Set the time to 6000]
+[20:56:50] [Server thread/INFO]: [@: Set the weather to clear]
+[20:56:50] [Server thread/INFO]: [@: Set the time to 6000]
+[20:56:58] [Server thread/INFO]: [@: Set the weather to clear]
+[20:56:58] [Server thread/INFO]: [@: Set the time to 6000]
+[20:57:07] [Server thread/INFO]: [@: Set the weather to clear]
+[20:57:07] [Server thread/INFO]: [@: Set the time to 6000]
+[20:57:15] [Server thread/INFO]: [@: Set the weather to clear]
+[20:57:15] [Server thread/INFO]: [@: Set the time to 6000]
+[20:57:24] [Server thread/INFO]: [@: Set the weather to clear]
+[20:57:24] [Server thread/INFO]: [@: Set the time to 6000]
+[20:57:25] [Server thread/INFO]: temporalmoose has made the advancement [A Throwaway Joke]
+[20:57:32] [Server thread/INFO]: [@: Set the weather to clear]
+[20:57:32] [Server thread/INFO]: [@: Set the time to 6000]
+[20:57:41] [Server thread/INFO]: [@: Set the weather to clear]
+[20:57:41] [Server thread/INFO]: [@: Set the time to 6000]
+[20:57:48] [Server thread/INFO]: [@: Set the weather to clear]
+[20:57:48] [Server thread/INFO]: [@: Set the time to 6000]
+[20:57:49] [Server thread/INFO]: [@: Summoned new Gay Bowser]
+[20:57:58] [Server thread/INFO]: [@: Set the weather to clear]
+[20:57:58] [Server thread/INFO]: [@: Set the time to 6000]
+[20:58:03] [Server thread/INFO]: Villager EntityVillager['Gay Bowser'/1509, l='world', x=2475.47, y=41.00, z=2153.30] died, message: 'Gay Bowser was slain by Fisherswamp'
+[20:58:05] [Server thread/INFO]: [@: Set the weather to clear]
+[20:58:05] [Server thread/INFO]: [@: Set the time to 6000]
+[20:58:14] [Server thread/INFO]: [@: Set the weather to clear]
+[20:58:14] [Server thread/INFO]: [@: Set the time to 6000]
+[20:58:17] [Server thread/INFO]: Villager EntityVillager['Herry'/1486, l='world', x=2476.99, y=41.00, z=2150.00] died, message: 'Herry was slain by Fisherswamp'
+[20:58:22] [Server thread/INFO]: [@: Set the weather to clear]
+[20:58:22] [Server thread/INFO]: [@: Set the time to 6000]
+[20:58:31] [Server thread/INFO]: [@: Set the weather to clear]
+[20:58:31] [Server thread/INFO]: [@: Set the time to 6000]
+[20:58:39] [Server thread/INFO]: [@: Set the weather to clear]
+[20:58:39] [Server thread/INFO]: [@: Set the time to 6000]
+[20:58:46] [Server thread/INFO]: temporalmoose issued server command: /gamemode survival
+[20:58:46] [Server thread/INFO]: [temporalmoose: Set own game mode to Survival Mode]
+[20:58:48] [Server thread/INFO]: [@: Set the weather to clear]
+[20:58:48] [Server thread/INFO]: [@: Set the time to 6000]
+[20:58:56] [Server thread/INFO]: [@: Set the weather to clear]
+[20:58:56] [Server thread/INFO]: [@: Set the time to 6000]
+[20:59:03] [Server thread/INFO]: Fisherswamp has made the advancement [A Throwaway Joke]
+[20:59:05] [Server thread/INFO]: [@: Set the weather to clear]
+[20:59:05] [Server thread/INFO]: [@: Set the time to 6000]
+[20:59:11] [Server thread/INFO]: Fisherswamp issued server command: /gamemode survival
+[20:59:11] [Server thread/INFO]: [Fisherswamp: Set own game mode to Survival Mode]
+[20:59:12] [Server thread/INFO]: [@: Set the weather to clear]
+[20:59:12] [Server thread/INFO]: [@: Set the time to 6000]
+[20:59:22] [Server thread/INFO]: [@: Set the weather to clear]
+[20:59:22] [Server thread/INFO]: [@: Set the time to 6000]
+[20:59:28] [Server thread/INFO]: temporalmoose issued server command: /gamemode creative
+[20:59:28] [Server thread/INFO]: [temporalmoose: Set own game mode to Creative Mode]
+[20:59:29] [Server thread/INFO]: [@: Set the weather to clear]
+[20:59:29] [Server thread/INFO]: [@: Set the time to 6000]
+[20:59:38] [Server thread/INFO]: [@: Set the weather to clear]
+[20:59:38] [Server thread/INFO]: [@: Set the time to 6000]
+[20:59:42] [Server thread/INFO]: Fisherswamp issued server command: /gamemode creative
+[20:59:42] [Server thread/INFO]: [Fisherswamp: Set own game mode to Creative Mode]
+[20:59:46] [Server thread/INFO]: [@: Set the weather to clear]
+[20:59:46] [Server thread/INFO]: [@: Set the time to 6000]
+[20:59:55] [Server thread/INFO]: [@: Set the weather to clear]
+[20:59:55] [Server thread/INFO]: [@: Set the time to 6000]
+[21:00:03] [Server thread/INFO]: [@: Set the weather to clear]
+[21:00:03] [Server thread/INFO]: [@: Set the time to 6000]
+[21:00:12] [Server thread/INFO]: [@: Set the weather to clear]
+[21:00:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:00:20] [Server thread/INFO]: [@: Set the weather to clear]
+[21:00:20] [Server thread/INFO]: [@: Set the time to 6000]
+[21:00:29] [Server thread/INFO]: [@: Set the weather to clear]
+[21:00:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:00:33] [Server thread/INFO]: Fisherswamp issued server command: /gamemode survival
+[21:00:33] [Server thread/INFO]: [Fisherswamp: Set own game mode to Survival Mode]
+[21:00:36] [Server thread/INFO]: [@: Set the weather to clear]
+[21:00:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:00:46] [Server thread/INFO]: [@: Set the weather to clear]
+[21:00:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:00:53] [Server thread/INFO]: [@: Set the weather to clear]
+[21:00:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:01:02] [Server thread/INFO]: [@: Set the weather to clear]
+[21:01:02] [Server thread/INFO]: [@: Set the time to 6000]
+[21:01:03] [Server thread/INFO]: temporalmoose issued server command: /weather rain
+[21:01:03] [Server thread/INFO]: [temporalmoose: Set the weather to rain]
+[21:01:10] [Server thread/INFO]: [@: Set the weather to clear]
+[21:01:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:01:18] [Server thread/INFO]: temporalmoose issued server command: /weather thunder
+[21:01:18] [Server thread/INFO]: [temporalmoose: Set the weather to rain & thunder]
+[21:01:19] [Server thread/INFO]: [@: Set the weather to clear]
+[21:01:19] [Server thread/INFO]: [@: Set the time to 6000]
+[21:01:24] [Server thread/INFO]: temporalmoose issued server command: /weather thunder
+[21:01:24] [Server thread/INFO]: [temporalmoose: Set the weather to rain & thunder]
+[21:01:27] [Server thread/INFO]: [@: Set the weather to clear]
+[21:01:27] [Server thread/INFO]: [@: Set the time to 6000]
+[21:01:32] [Server thread/INFO]: Fisherswamp issued server command: /gamemode creative
+[21:01:32] [Server thread/INFO]: [Fisherswamp: Set own game mode to Creative Mode]
+[21:01:36] [Server thread/INFO]: [@: Set the weather to clear]
+[21:01:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:01:44] [Server thread/INFO]: [@: Set the weather to clear]
+[21:01:44] [Server thread/INFO]: [@: Set the time to 6000]
+[21:01:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:01:55] [Server thread/INFO]: temporalmoose issued server command: /weather thunder
+[21:01:55] [Server thread/INFO]: [temporalmoose: Set the weather to rain & thunder]
+[21:02:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:02:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:02:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:02:26] [Server thread/INFO]: [@: Set the time to 6000]
+[21:02:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:02:43] [Server thread/INFO]: [@: Set the time to 6000]
+[21:02:51] [Server thread/INFO]: [@: Set the time to 6000]
+[21:02:52] [Server thread/INFO]: Fisherswamp issued server command: /gamemode survival
+[21:02:52] [Server thread/INFO]: [Fisherswamp: Set own game mode to Survival Mode]
+[21:03:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:03:08] [Server thread/INFO]: [@: Set the time to 6000]
+[21:03:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:03:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:03:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:03:40] [Server thread/INFO]: Fisherswamp issued server command: /gamemode creative
+[21:03:40] [Server thread/INFO]: [Fisherswamp: Set own game mode to Creative Mode]
+[21:03:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:03:50] [Server thread/INFO]: [@: Set the time to 6000]
+[21:03:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:04:07] [Server thread/INFO]: [@: Set the time to 6000]
+[21:04:15] [Server thread/INFO]: [@: Set the time to 6000]
+[21:04:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:04:32] [Server thread/INFO]: [@: Set the time to 6000]
+[21:04:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:04:48] [Server thread/INFO]: [@: Set the time to 6000]
+[21:04:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:05:05] [Server thread/INFO]: [@: Set the time to 6000]
+[21:05:08] [Server thread/INFO]: Fisherswamp issued server command: /tp temporalmoose
+[21:05:08] [Server thread/INFO]: [Fisherswamp: Teleported Fisherswamp to temporalmoose]
+[21:05:08] [Server thread/INFO]: temporalmoose issued server command: /weather rain
+[21:05:08] [Server thread/INFO]: [temporalmoose: Set the weather to rain]
+[21:05:14] [Server thread/INFO]: [@: Set the time to 6000]
+[21:05:16] [Server thread/INFO]: temporalmoose issued server command: /gamemode survival
+[21:05:16] [Server thread/INFO]: [temporalmoose: Set own game mode to Survival Mode]
+[21:05:22] [Server thread/INFO]: [@: Set the time to 6000]
+[21:05:24] [Server thread/INFO]: temporalmoose issued server command: /gamemode creative
+[21:05:24] [Server thread/INFO]: [temporalmoose: Set own game mode to Creative Mode]
+[21:05:31] [Server thread/INFO]: [@: Set the time to 6000]
+[21:05:39] [Server thread/INFO]: [@: Set the time to 6000]
+[21:05:48] [Server thread/INFO]: [@: Set the time to 6000]
+[21:05:56] [Server thread/INFO]: [@: Set the time to 6000]
+[21:06:05] [Server thread/INFO]: [@: Set the time to 6000]
+[21:06:08] [Server thread/INFO]: temporalmoose issued server command: /weather rain
+[21:06:08] [Server thread/INFO]: [temporalmoose: Set the weather to rain]
+[21:06:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:06:22] [Server thread/INFO]: [@: Set the time to 6000]
+[21:06:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:06:38] [Server thread/INFO]: [@: Set the time to 6000]
+[21:06:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:06:55] [Server thread/INFO]: [@: Set the time to 6000]
+[21:06:57] [Server thread/INFO]: Fisherswamp issued server command: //copy
+[21:06:58] [Server thread/INFO]: Fisherswamp issued server command: //paste
+[21:07:03] [Server thread/INFO]: [@: Set the time to 6000]
+[21:07:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:07:20] [Server thread/INFO]: [@: Set the time to 6000]
+[21:07:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:07:35] [Server thread/INFO]: Fisherswamp issued server command: /jumpto
+[21:07:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:07:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:07:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:08:02] [Server thread/INFO]: [@: Set the time to 6000]
+[21:08:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:08:19] [Server thread/INFO]: [@: Set the time to 6000]
+[21:08:22] [Server thread/INFO]: temporalmoose issued server command: /up1
+[21:08:24] [Server thread/INFO]: temporalmoose issued server command: /up 1
+[21:08:27] [Server thread/INFO]: [@: Set the time to 6000]
+[21:08:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:08:44] [Server thread/INFO]: [@: Set the time to 6000]
+[21:08:48] [Server thread/INFO]: temporalmoose issued server command: /up 1
+[21:08:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:09:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:09:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:09:16] [Server thread/INFO]: temporalmoose lost connection: Disconnected
+[21:09:16] [Server thread/INFO]: temporalmoose left the game
+[21:09:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:09:21] [Server thread/INFO]: Fisherswamp lost connection: Disconnected
+[21:09:21] [Server thread/INFO]: Fisherswamp left the game
+[21:09:26] [Server thread/INFO]: [@: Set the time to 6000]
+[21:09:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:09:43] [Server thread/INFO]: [@: Set the time to 6000]
+[21:09:51] [Server thread/INFO]: [@: Set the time to 6000]
+[21:10:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:10:08] [Server thread/INFO]: [@: Set the time to 6000]
+[21:10:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:10:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:10:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:10:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:10:50] [Server thread/INFO]: [@: Set the time to 6000]
+[21:10:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:11:07] [Server thread/INFO]: [@: Set the time to 6000]
+[21:11:15] [Server thread/INFO]: [@: Set the time to 6000]
+[21:11:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:11:32] [Server thread/INFO]: [@: Set the time to 6000]
+[21:11:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:11:48] [Server thread/INFO]: [@: Set the time to 6000]
+[21:11:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:12:05] [Server thread/INFO]: [@: Set the time to 6000]
+[21:12:14] [Server thread/INFO]: [@: Set the time to 6000]
+[21:12:22] [Server thread/INFO]: [@: Set the time to 6000]
+[21:12:31] [Server thread/INFO]: [@: Set the time to 6000]
+[21:12:39] [Server thread/INFO]: [@: Set the time to 6000]
+[21:12:48] [Server thread/INFO]: [@: Set the time to 6000]
+[21:12:56] [Server thread/INFO]: [@: Set the time to 6000]
+[21:13:05] [Server thread/INFO]: [@: Set the time to 6000]
+[21:13:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:13:22] [Server thread/INFO]: [@: Set the time to 6000]
+[21:13:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:13:38] [Server thread/INFO]: [@: Set the time to 6000]
+[21:13:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:13:55] [Server thread/INFO]: [@: Set the time to 6000]
+[21:14:03] [Server thread/INFO]: [@: Set the time to 6000]
+[21:14:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:14:20] [Server thread/INFO]: [@: Set the time to 6000]
+[21:14:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:14:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:14:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:14:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:15:02] [Server thread/INFO]: [@: Set the time to 6000]
+[21:15:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:15:19] [Server thread/INFO]: [@: Set the time to 6000]
+[21:15:27] [Server thread/INFO]: [@: Set the time to 6000]
+[21:15:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:15:44] [Server thread/INFO]: [@: Set the time to 6000]
+[21:15:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:16:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:16:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:16:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:16:26] [Server thread/INFO]: [@: Set the time to 6000]
+[21:16:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:16:43] [Server thread/INFO]: [@: Set the time to 6000]
+[21:16:51] [Server thread/INFO]: [@: Set the time to 6000]
+[21:17:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:17:08] [Server thread/INFO]: [@: Set the time to 6000]
+[21:17:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:17:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:17:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:17:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:17:50] [Server thread/INFO]: [@: Set the time to 6000]
+[21:17:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:18:07] [Server thread/INFO]: [@: Set the time to 6000]
+[21:18:15] [Server thread/INFO]: [@: Set the time to 6000]
+[21:18:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:18:32] [Server thread/INFO]: [@: Set the time to 6000]
+[21:18:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:18:48] [Server thread/INFO]: [@: Set the time to 6000]
+[21:18:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:19:05] [Server thread/INFO]: [@: Set the time to 6000]
+[21:19:14] [Server thread/INFO]: [@: Set the time to 6000]
+[21:19:22] [Server thread/INFO]: [@: Set the time to 6000]
+[21:19:31] [Server thread/INFO]: [@: Set the time to 6000]
+[21:19:39] [Server thread/INFO]: [@: Set the time to 6000]
+[21:19:48] [Server thread/INFO]: [@: Set the time to 6000]
+[21:19:56] [Server thread/INFO]: [@: Set the time to 6000]
+[21:20:05] [Server thread/INFO]: [@: Set the time to 6000]
+[21:20:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:20:22] [Server thread/INFO]: [@: Set the time to 6000]
+[21:20:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:20:38] [Server thread/INFO]: [@: Set the time to 6000]
+[21:20:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:20:55] [Server thread/INFO]: [@: Set the time to 6000]
+[21:21:03] [Server thread/INFO]: [@: Set the time to 6000]
+[21:21:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:21:20] [Server thread/INFO]: [@: Set the time to 6000]
+[21:21:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:21:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:21:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:21:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:22:02] [Server thread/INFO]: [@: Set the time to 6000]
+[21:22:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:22:19] [Server thread/INFO]: [@: Set the time to 6000]
+[21:22:27] [Server thread/INFO]: [@: Set the time to 6000]
+[21:22:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:22:44] [Server thread/INFO]: [@: Set the time to 6000]
+[21:22:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:23:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:23:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:23:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:23:26] [Server thread/INFO]: [@: Set the time to 6000]
+[21:23:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:23:43] [Server thread/INFO]: [@: Set the time to 6000]
+[21:23:51] [Server thread/INFO]: [@: Set the time to 6000]
+[21:24:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:24:08] [Server thread/INFO]: [@: Set the time to 6000]
+[21:24:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:24:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:24:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:24:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:24:50] [Server thread/INFO]: [@: Set the time to 6000]
+[21:24:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:25:07] [Server thread/INFO]: [@: Set the time to 6000]
+[21:25:15] [Server thread/INFO]: [@: Set the time to 6000]
+[21:25:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:25:32] [Server thread/INFO]: [@: Set the time to 6000]
+[21:25:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:25:48] [Server thread/INFO]: [@: Set the time to 6000]
+[21:25:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:26:05] [Server thread/INFO]: [@: Set the time to 6000]
+[21:26:14] [Server thread/INFO]: [@: Set the time to 6000]
+[21:26:22] [Server thread/INFO]: [@: Set the time to 6000]
+[21:26:31] [Server thread/INFO]: [@: Set the time to 6000]
+[21:26:39] [Server thread/INFO]: [@: Set the time to 6000]
+[21:26:48] [Server thread/INFO]: [@: Set the time to 6000]
+[21:26:56] [Server thread/INFO]: [@: Set the time to 6000]
+[21:27:05] [Server thread/INFO]: [@: Set the time to 6000]
+[21:27:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:27:22] [Server thread/INFO]: [@: Set the time to 6000]
+[21:27:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:27:38] [Server thread/INFO]: [@: Set the time to 6000]
+[21:27:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:27:55] [Server thread/INFO]: [@: Set the time to 6000]
+[21:28:03] [Server thread/INFO]: [@: Set the time to 6000]
+[21:28:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:28:20] [Server thread/INFO]: [@: Set the time to 6000]
+[21:28:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:28:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:28:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:28:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:29:02] [Server thread/INFO]: [@: Set the time to 6000]
+[21:29:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:29:19] [Server thread/INFO]: [@: Set the time to 6000]
+[21:29:27] [Server thread/INFO]: [@: Set the time to 6000]
+[21:29:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:29:44] [Server thread/INFO]: [@: Set the time to 6000]
+[21:29:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:30:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:30:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:30:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:30:26] [Server thread/INFO]: [@: Set the time to 6000]
+[21:30:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:30:43] [Server thread/INFO]: [@: Set the time to 6000]
+[21:30:51] [Server thread/INFO]: [@: Set the time to 6000]
+[21:31:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:31:08] [Server thread/INFO]: [@: Set the time to 6000]
+[21:31:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:31:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:31:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:31:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:31:50] [Server thread/INFO]: [@: Set the time to 6000]
+[21:31:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:32:07] [Server thread/INFO]: [@: Set the time to 6000]
+[21:32:15] [Server thread/INFO]: [@: Set the time to 6000]
+[21:32:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:32:32] [Server thread/INFO]: [@: Set the time to 6000]
+[21:32:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:32:48] [Server thread/INFO]: [@: Set the time to 6000]
+[21:32:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:33:05] [Server thread/INFO]: [@: Set the time to 6000]
+[21:33:14] [Server thread/INFO]: [@: Set the time to 6000]
+[21:33:22] [Server thread/INFO]: [@: Set the time to 6000]
+[21:33:31] [Server thread/INFO]: [@: Set the time to 6000]
+[21:33:39] [Server thread/INFO]: [@: Set the time to 6000]
+[21:33:48] [Server thread/INFO]: [@: Set the time to 6000]
+[21:33:56] [Server thread/INFO]: [@: Set the time to 6000]
+[21:34:05] [Server thread/INFO]: [@: Set the time to 6000]
+[21:34:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:34:22] [Server thread/INFO]: [@: Set the time to 6000]
+[21:34:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:34:38] [Server thread/INFO]: [@: Set the time to 6000]
+[21:34:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:34:55] [Server thread/INFO]: [@: Set the time to 6000]
+[21:35:03] [Server thread/INFO]: [@: Set the time to 6000]
+[21:35:12] [Server thread/INFO]: [@: Set the time to 6000]
+[21:35:20] [Server thread/INFO]: [@: Set the time to 6000]
+[21:35:29] [Server thread/INFO]: [@: Set the time to 6000]
+[21:35:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:35:46] [Server thread/INFO]: [@: Set the time to 6000]
+[21:35:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:36:02] [Server thread/INFO]: [@: Set the time to 6000]
+[21:36:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:36:19] [Server thread/INFO]: [@: Set the time to 6000]
+[21:36:27] [Server thread/INFO]: [@: Set the time to 6000]
+[21:36:36] [Server thread/INFO]: [@: Set the time to 6000]
+[21:36:44] [Server thread/INFO]: [@: Set the time to 6000]
+[21:36:53] [Server thread/INFO]: [@: Set the time to 6000]
+[21:37:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:37:10] [Server thread/INFO]: [@: Set the time to 6000]
+[21:37:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:37:26] [Server thread/INFO]: [@: Set the time to 6000]
+[21:37:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:37:43] [Server thread/INFO]: [@: Set the time to 6000]
+[21:37:51] [Server thread/INFO]: [@: Set the time to 6000]
+[21:38:00] [Server thread/INFO]: [@: Set the time to 6000]
+[21:38:08] [Server thread/INFO]: [@: Set the time to 6000]
+[21:38:17] [Server thread/INFO]: [@: Set the time to 6000]
+[21:38:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:38:34] [Server thread/INFO]: [@: Set the time to 6000]
+[21:38:41] [Server thread/INFO]: [@: Set the time to 6000]
+[21:38:50] [Server thread/INFO]: [@: Set the time to 6000]
+[21:38:58] [Server thread/INFO]: [@: Set the time to 6000]
+[21:39:07] [Server thread/INFO]: [@: Set the time to 6000]
+[21:39:15] [Server thread/INFO]: [@: Set the time to 6000]
+[21:39:24] [Server thread/INFO]: [@: Set the time to 6000]
+[21:39:32] [Server thread/INFO]: [@: Set the time to 6000]
+[21:39:41] [Server thread/INFO]: [@: Set the time to 6000]
