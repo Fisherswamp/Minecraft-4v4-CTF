@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-05-01 22:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-20 22:20:58 +0000"
@@ -687,6 +693,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-20 22:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-05-01 22:06:43 +0000"
     },
     "done": true
   },

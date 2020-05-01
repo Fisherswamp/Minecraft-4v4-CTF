@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-05-01 22:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2020-04-27 00:13:05 +0000"
@@ -1793,6 +1799,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2020-04-21 15:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-05-01 22:05:09 +0000"
     },
     "done": true
   },
